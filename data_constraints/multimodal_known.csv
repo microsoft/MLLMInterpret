@@ -1,0 +1,1205 @@
+,question,subject,main_entity,image_url
+0,This building is located in,Space Needle,This building,./A photo of Space Needle
+1,This mountain is located in the continent of,Vinson Massif,This mountain,./A photo of Vinson Massif
+2,This service is owned by,Beats Music,This service,./A photo of Beats Music
+3,This company is owned by,Audible.com,This company,./A photo of Audible.com
+4,This show premieres on,The Big Bang Theory,This show,./A photo of The Big Bang Theory
+5,"This application, a product created by",MacApp,"This application,",./A photo of MacApp
+6,"This artist, who has a citizenship of",Giuseppe Angeli,"This artist,",./A photo of Giuseppe Angeli
+7,This region belongs to the continent of,Catalonia,This region,./A photo of Catalonia
+8,"In this place, the language spoken is a mixture of",Marshall Islands,"this place,",./A photo of Marshall Islands
+9,This executive is employed by,Leslie Moonves,This executive,./A photo of Leslie Moonves
+10,This text's original language is the same as the,De finibus bonorum et malorum,This text's,./A photo of De finibus bonorum et malorum
+11,This glacier belongs to the continent of,Kirkpatrick Glacier,This glacier,./A photo of Kirkpatrick Glacier
+12,The headquarter of this organization is in,Army of the Guardians of the Islamic Revolution,this organization,./A photo of Army of the Guardians of the Islamic Revolution
+13,"This newspaper was written in the early 1980s, when the",Il Gazzettino,This newspaper,./A photo of Il Gazzettino
+14,"This software, developed by the",Xamarin,"This software,",./A photo of Xamarin
+15,This person was born in the city of,Eavan Boland,This person,./A photo of Eavan Boland
+16,This song is written in,Comme j'ai mal,This song,./A photo of Comme j'ai mal
+17,The language used by this person is a bit different from the language used by the,Juan Bautista de Anza,this person,./A photo of Juan Bautista de Anza
+18,This show debuted on,Alfred Hitchcock Presents,This show,./A photo of Alfred Hitchcock Presents
+19,This operating system is developed by a consortium of companies including,Tizen,This operating,./A photo of Tizen
+20,This athlete professionally plays the sport of,Honus Wagner,This athlete,./A photo of Honus Wagner
+21,"This film genre, that originated in",samurai cinema,This film,./A photo of samurai cinema
+22,The capital of this place is,Roman Republic,this place,./A photo of Roman Republic
+23,This person was born in the city of,Henri Debain,This person,./A photo of Henri Debain
+24,This person is a citizen of,Adriano Celentano,This person,./A photo of Adriano Celentano
+25,This team is a member of the,Czech Republic national football team,This team,./A photo of Czech Republic national football team
+26,This software is developed by,Windows Media Player,This software,./A photo of Windows Media Player
+27,This file system is developed by,NTFS,This file,./A photo of NTFS
+28,This prince passed away in the year of,"Knud, Hereditary Prince of Denmark",This prince,"./A photo of Knud, Hereditary Prince of Denmark"
+29,This person professionally plays the sport of,Don Shula,This person,./A photo of Don Shula
+30,The language of this newspaper was a mixture of,El Mercurio,this newspaper,./A photo of El Mercurio
+31,This character is affiliated with the,Iron Man,This character,./A photo of Iron Man
+32,The location of this institution is in,Massachusetts Institute of Technology,this institution,./A photo of Massachusetts Institute of Technology
+33,This country belongs to the continent of,Vietnam,This country,./A photo of Vietnam
+34,This show premiered on,The Tonight Show with Jay Leno,This show,./A photo of The Tonight Show with Jay Leno
+35,The capital of this country is,Philippines,this country,./A photo of Philippines
+36,This individual specializes in the study of the,Frederick Banting,This individual,./A photo of Frederick Banting
+37,"This musician, performing on the",Clifford Curzon,"This musician,",./A photo of Clifford Curzon
+38,This format is a product developed by,Windows Media Audio,This format,./A photo of Windows Media Audio
+39,The location of this university is in the heart of,Galatasaray University,this university,./A photo of Galatasaray University
+40,"In this company, the language spoken is",Nokia,"this company,",./A photo of Nokia
+41,This region follows the religion of,Northern Nigeria Protectorate,This region,./A photo of Northern Nigeria Protectorate
+42,This religious movement follows the religion of,Deobandi,This religious,./A photo of Deobandi
+43,This website was developed in the early 1990s by a group of,Odnoklassniki,This website,./A photo of Odnoklassniki
+44,This person holds the position of the first,Zeno of Verona,This person,./A photo of Zeno of Verona
+45,"This individual, who has a citizenship of",Jean-Pierre Van Rossem,"This individual,",./A photo of Jean-Pierre Van Rossem
+46,This economist's domain of work is the,Joseph Schumpeter,This economist's,./A photo of Joseph Schumpeter
+47,"This journalist, who works as a",Felix Salmon,"This journalist,",./A photo of Felix Salmon
+48,The capital of this historical region is,Grand Duchy of Finland,this historical,./A photo of Grand Duchy of Finland
+49,This company's previous owner is,Goodreads,This company's,./A photo of Goodreads
+50,This river belongs to the continent of,Rhine,This river,./A photo of Rhine
+51,This historical figure is affiliated with the religion of,Muawiyah I,This historical,./A photo of Muawiyah I
+52,This ruler follows the religion of,Farrukhsiyar,This ruler,./A photo of Farrukhsiyar
+53,This person follows the religion of,Ibn Khaldun,This person,./A photo of Ibn Khaldun
+54,The capital of this government was,Vichy France,this government,./A photo of Vichy France
+55,This person died in the city of,John Pym,This person,./A photo of John Pym
+56,The genre written by this author is a mix of,Christopher Paolini,this author,./A photo of Christopher Paolini
+57,This song is written in,Si la vie est cadeau,This song,./A photo of Si la vie est cadeau
+58,This person works in the area of,Brian De Palma,This person,./A photo of Brian De Palma
+59,This series was created in the country of,Magne Robo Gakeen,This series,./A photo of Magne Robo Gakeen
+60,The language of this publication was a mixture of,Electricidad,this publication,./A photo of Electricidad
+61,This company is headquartered in,Swedish Orphan Biovitrum,This company,./A photo of Swedish Orphan Biovitrum
+62,This athlete professionally plays the sport of,Megan Rapinoe,This athlete,./A photo of Megan Rapinoe
+63,This athlete plays as the,Drake Britton,This athlete,./A photo of Drake Britton
+64,This series was created in the country of,Pandora Hearts,This series,./A photo of Pandora Hearts
+65,This composer was born in the city of,Nicolas Gigault,This composer,./A photo of Nicolas Gigault
+66,This socket is created by,LGA 775,This socket,./A photo of LGA 775
+67,This film was created in the country of,Suite Habana,This film,./A photo of Suite Habana
+68,This person was born in the city of,Emilia Rydberg,This person,./A photo of Emilia Rydberg
+69,This filmmaker is employed by the,Adam Curtis,This filmmaker,./A photo of Adam Curtis
+70,This athlete plays in the position of,Mark Sanchez,This athlete,./A photo of Mark Sanchez
+71,This food was created in the country of,Danish pastry,This food,./A photo of Danish pastry
+72,This newspaper is written in,Jyllands-Posten,This newspaper,./A photo of Jyllands-Posten
+73,This person is a citizen of,Sachimi Iwao,This person,./A photo of Sachimi Iwao
+74,This video game is developed by,Yakuza 2,This video,./A photo of Yakuza 2
+75,The owner of this brand is,Lexus,this brand,./A photo of Lexus
+76,"In this region, the language spoken is the",Yamalo-Nenets Autonomous Okrug,"this region,",./A photo of Yamalo-Nenets Autonomous Okrug
+77,This organization works in the area of the,The Physiological Society,This organization,./A photo of The Physiological Society
+78,This individual works in the area of,William Herschel,This individual,./A photo of William Herschel
+79,This person worked in the city of,Joseph Goebbels,This person,./A photo of Joseph Goebbels
+80,This company was formed in the year of,Deutsche Bahn,This company,./A photo of Deutsche Bahn
+81,"This saint, who has the position of the",Saint Domnius,"This saint,",./A photo of Saint Domnius
+82,The capital of this country is,Italy,this country,./A photo of Italy
+83,This series premieres on,Hotel Room,This series,./A photo of Hotel Room
+84,"This substance, called after the",caffeine,"This substance,",./A photo of caffeine
+85,The headquarter of this company is in the city of,Lokalbahn AG,this company,./A photo of Lokalbahn AG
+86,This glacier belongs to the continent of,Urdoviza Glacier,This glacier,./A photo of Urdoviza Glacier
+87,This region belongs to the continent of,Manipur,This region,./A photo of Manipur
+88,This event is in full swing in the,2005 Southeast Asian Games,This event,./A photo of 2005 Southeast Asian Games
+89,This lake is situated in the province of,Lake Abitibi,This lake,./A photo of Lake Abitibi
+90,This person's domain of work is the study of the history of the,Georgios Babiniotis,This person's,./A photo of Georgios Babiniotis
+91,This person follows the religion of,Maumoon Abdul Gayoom,This person,./A photo of Maumoon Abdul Gayoom
+92,The capital city of this country is,People's Republic of Poland,this country,./A photo of People's Republic of Poland
+93,This person was born in the city of,Francesco Castellacci,This person,./A photo of Francesco Castellacci
+94,This football club is located in the country of,Fluminense F.C.,This football,./A photo of Fluminense F.C.
+95,This highway is the most popular route in,Bundesautobahn 113,This highway,./A photo of Bundesautobahn 113
+96,This person is a citizen of,Petros Voulgaris,This person,./A photo of Petros Voulgaris
+97,This tennis tournament takes place in,2005 Australian Open,This tennis,./A photo of 2005 Australian Open
+98,This artist originates from the city of,Giulio Romano,This artist,./A photo of Giulio Romano
+99,This city council is located in the country of,Louth County Council,This city,./A photo of Louth County Council
+100,The language used by this person is not the language of the,Louis Bonaparte,this person,./A photo of Louis Bonaparte
+101,This stadium's owner is,Ajinomoto Stadium,This stadium's,./A photo of Ajinomoto Stadium
+102,This software is developed by,Internet Explorer,This software,./A photo of Internet Explorer
+103,"In this country, the language spoken is",Singapore,"this country,",./A photo of Singapore
+104,The headquarters of this company are in,Euromoney Institutional Investor,this company,./A photo of Euromoney Institutional Investor
+105,This airport is located in the country of,Indira Gandhi International Airport,This airport,./A photo of Indira Gandhi International Airport
+106,"This empire follows a religion of the same name, which is a mix of",Tang Empire,This empire,./A photo of Tang Empire
+107,The capital of this region is,Metropolitan France,this region,./A photo of Metropolitan France
+108,This school is located in the country of,Simcoe Composite School,This school,./A photo of Simcoe Composite School
+109,This software is a product developed by,X11.app,This software,./A photo of X11.app
+110,This wrestler is affiliated with the,Jeff Hardy,This wrestler,./A photo of Jeff Hardy
+111,This person has a citizenship of the country of,Izzy Asper,This person,./A photo of Izzy Asper
+112,This software was developed by,Process Explorer,This software,./A photo of Process Explorer
+113,"In this country, the language spoken is",Vietnam,"this country,",./A photo of Vietnam
+114,This company started in the early 1900s as a small company in the city of,Mitsubishi Electric,This company,./A photo of Mitsubishi Electric
+115,This person is known for performing in the world's most prestigious venues.,Antonio Sartorio,This person,./A photo of Antonio Sartorio
+116,This player professionally plays the sport of,Thierry Henry,This player,./A photo of Thierry Henry
+117,The owner of this car company is,Abarth,this car,./A photo of Abarth
+118,This athlete professionally plays the sport of,Wayne Rooney,This athlete,./A photo of Wayne Rooney
+119,The location of this tennis tournament is in the heart of,Hungarian Ladies Open,this tennis,./A photo of Hungarian Ladies Open
+120,The language of this website is a bit different from the language of the,Kavkaz Center,this website,./A photo of Kavkaz Center
+121,This place is located in the country of,Etobicoke North,This place,./A photo of Etobicoke North
+122,"This person, whose position is that of a ""superior""",Gregory XII,"This person,",./A photo of Gregory XII
+123,This song is written in,Le cose che vivi,This song,./A photo of Le cose che vivi
+124,The capital of this country is,Egypt,this country,./A photo of Egypt
+125,This person passed away in,Coco Chanel,This person,./A photo of Coco Chanel
+126,The headquarter of this company is in downtown,Zillow,this company,./A photo of Zillow
+127,This city is located in the country of,Trento,This city,./A photo of Trento
+128,This person died in the city of,Jan Swammerdam,This person,./A photo of Jan Swammerdam
+129,This person is a great example of a,Pius II,This person,./A photo of Pius II
+130,This theatre is in,Royal National Theatre,This theatre,./A photo of Royal National Theatre
+131,This person is affiliated with the religion of,Hamza ibn Abdul-Muttalib,This person,./A photo of Hamza ibn Abdul-Muttalib
+132,"This musician, performing on the",Edmund Neupert,"This musician,",./A photo of Edmund Neupert
+133,This company's headquarters are in,Seiyu Group,This company's,./A photo of Seiyu Group
+134,Element: This person is known for performing in the world's most prestigious,Gian Francesco Malipiero,This person,./A photo of Gian Francesco Malipiero
+135,"In this country, the language spoken is",United Kingdom,"this country,",./A photo of United Kingdom
+136,This person died in the city of,Madame de Montesson,This person,./A photo of Madame de Montesson
+137,The capital city of this empire is,Second French Empire,this empire,./A photo of Second French Empire
+138,"This media conglomerate, that originated in",Grupo Globo,This media,./A photo of Grupo Globo
+139,This person is employed by,Vint Cerf,This person,./A photo of Vint Cerf
+140,This author writes in the,Olga Vittoria Gentilli,This author,./A photo of Olga Vittoria Gentilli
+141,This person worked in the city of,"Henry Somerset, 7th Duke of Beaufort",This person,"./A photo of Henry Somerset, 7th Duke of Beaufort"
+142,The headquarters of this hospital are in,King Chulalongkorn Memorial Hospital,this hospital,./A photo of King Chulalongkorn Memorial Hospital
+143,This university can be found in the heart of,York University,This university,./A photo of York University
+144,This person is a citizen of,Michel Houellebecq,This person,./A photo of Michel Houellebecq
+145,This institution is located in the continent of,Camp Academia,This institution,./A photo of Camp Academia
+146,The capital city of this place is,United Kingdom of the Netherlands,this place,./A photo of United Kingdom of the Netherlands
+147,This national park can be found in the state of,Yellowstone National Park,This national,./A photo of Yellowstone National Park
+148,"In this place, the language spoken is",Azerbaijan Soviet Socialist Republic,"this place,",./A photo of Azerbaijan Soviet Socialist Republic
+149,This university is located in the country of,Fryderyk Chopin University of Music,This university,./A photo of Fryderyk Chopin University of Music
+150,The capital city of this historical country is,Kingdom of Hungary,this historical,./A photo of Kingdom of Hungary
+151,This person holds the title of,John XXIII,This person,./A photo of John XXIII
+152,This person is employed by,Paul Allen,This person,./A photo of Paul Allen
+153,The native language of this person is,Isabelle Breitman,this person,./A photo of Isabelle Breitman
+154,This football club is based in,Partick Thistle F.C.,This football,./A photo of Partick Thistle F.C.
+155,This person is a citizen of,Jean Bobet,This person,./A photo of Jean Bobet
+156,This person is known for performing in the,Antonio Vivaldi,This person,./A photo of Antonio Vivaldi
+157,This area is located in the country of,Kluuvi,This area,./A photo of Kluuvi
+158,This music player is developed by,iPod Classic,This music,./A photo of iPod Classic
+159,This person worked in the city of,Rudolf Steiner,This person,./A photo of Rudolf Steiner
+160,This software is owned by the company of,Office Online,This software,./A photo of Office Online
+161,This governorate is located in the country of,Al-Hasakah Governorate,This governorate,./A photo of Al-Hasakah Governorate
+162,This person is affiliated with the religion of,Shah Alam II,This person,./A photo of Shah Alam II
+163,This scientist's expertise is in the field of nuclear,Edward Teller,This scientist's,./A photo of Edward Teller
+164,This player professionally plays the sport of,Dirk Nowitzki,This player,./A photo of Dirk Nowitzki
+165,This person's domain of work is,Germaine Greer,This person's,./A photo of Germaine Greer
+166,This player professionally plays the sport of,Barry Bonds,This player,./A photo of Barry Bonds
+167,This athlete professionally plays the sport of,Lawrence Taylor,This athlete,./A photo of Lawrence Taylor
+168,The native language of this person is,Nathalie Kosciusko-Morizet,this person,./A photo of Nathalie Kosciusko-Morizet
+169,"This musician, performing on the",Van Cliburn,"This musician,",./A photo of Van Cliburn
+170,This person died in the city of,James Northcote,This person,./A photo of James Northcote
+171,"This scientist, who works as a",Werner Heisenberg,"This scientist,",./A photo of Werner Heisenberg
+172,This tournament takes place in,2002 Australian Open,This tournament,./A photo of 2002 Australian Open
+173,This media outlet's primary language is,France Info,This media,./A photo of France Info
+174,This person worked in the city of,"Hugh Cairns, 1st Earl Cairns",This person,"./A photo of Hugh Cairns, 1st Earl Cairns"
+175,This person died in the city of,Louis XVII of France,This person,./A photo of Louis XVII of France
+176,This festival can be found in the heart of downtown.,Fantastic Fest,This festival,./A photo of Fantastic Fest
+177,"This artist, who has a citizenship of",Josetsu,"This artist,",./A photo of Josetsu
+178,This software is a product developed by,Final Cut Pro X,This software,./A photo of Final Cut Pro X
+179,The language of this group was a mixture of,I ragazzi di via Panisperna,this group,./A photo of I ragazzi di via Panisperna
+180,This place is in the country of,IJmuiden,This place,./A photo of IJmuiden
+181,This educational institution is affiliated with the religion of,Hebrew Theological College,This educational,./A photo of Hebrew Theological College
+182,This person's native language is,Ariane Labed,This person's,./A photo of Ariane Labed
+183,This publishing company was formed in,Chatto & Windus,This publishing,./A photo of Chatto & Windus
+184,This person's domain of work is the study of the history of the,Pierre Gilliard,This person's,./A photo of Pierre Gilliard
+185,The original language of this newspaper is,Le Globe,this newspaper,./A photo of Le Globe
+186,The owner of this company is,Alexa Internet,this company,./A photo of Alexa Internet
+187,The original language of this publication is a,Revue de Paris,this publication,./A photo of Revue de Paris
+188,The capital of this place is,West Pakistan,this place,./A photo of West Pakistan
+189,This band plays a lot of,De-Phazz,This band,./A photo of De-Phazz
+190,The headquarter of this company is in,Smith & Wesson,this company,./A photo of Smith & Wesson
+191,This person died in the city of,Astley Cooper,This person,./A photo of Astley Cooper
+192,This person plays in the position of a defensive,Gus Poyet,This person,./A photo of Gus Poyet
+193,"In this city, the language spoken is",Joensuu,"this city,",./A photo of Joensuu
+194,This player plays the sport of,Dick Butkus,This player,./A photo of Dick Butkus
+195,The original language of this publication was written in,La Jornada,this publication,./A photo of La Jornada
+196,The language of this movie was a mixture of,Polisse,this movie,./A photo of Polisse
+197,"In this place, the language spoken is a mixture of",Bosco Gurin,"this place,",./A photo of Bosco Gurin
+198,This athlete plays in the position of,Tim Tebow,This athlete,./A photo of Tim Tebow
+199,This athlete plays as a,Brandon Jenkins (football player),This athlete,./A photo of Brandon Jenkins (football player)
+200,This author writes in the,Dominic Behan,This author,./A photo of Dominic Behan
+201,This film's original language was written in the late 15th century by the,Passer à l'acte,This film's,./A photo of Passer à l'acte
+202,This air base is located in the country of,Iruma Air Base,This air,./A photo of Iruma Air Base
+203,This person holds the position of the first,Saint Amandus,This person,./A photo of Saint Amandus
+204,This place is located in the country of,Santo Stefano d'Aveto,This place,./A photo of Santo Stefano d'Aveto
+205,This operating system is developed by,Windows Mobile,This operating,./A photo of Windows Mobile
+206,This aircraft is produced by,B-29 Superfortress,This aircraft,./A photo of B-29 Superfortress
+207,This company was formed in 1979 and is headquartered in,"Bandai Co., Ltd.",This company,"./A photo of Bandai Co., Ltd."
+208,This player professionally plays the sport of,Johnny Unitas,This player,./A photo of Johnny Unitas
+209,The capital of this place is,Ukrainian State,this place,./A photo of Ukrainian State
+210,"In this place, the language spoken is",Ruokolahti,"this place,",./A photo of Ruokolahti
+211,The headquarters of this organization are in,Hellenic Army,this organization,./A photo of Hellenic Army
+212,The owner of this gaming brand is,Xbox,this gaming,./A photo of Xbox
+213,This glacier belongs to the continent of,Mawson Glacier,This glacier,./A photo of Mawson Glacier
+214,"In this country, the language spoken is",Panama,"this country,",./A photo of Panama
+215,This person's native language is,Viacheslav Belavkin,This person's,./A photo of Viacheslav Belavkin
+216,This person is affiliated with the religion of,Adi ibn Hatim,This person,./A photo of Adi ibn Hatim
+217,"In this kingdom, the language spoken is",Kingdom of Bulgaria,"this kingdom,",./A photo of Kingdom of Bulgaria
+218,This district is located in the country of,Nishi-Matsuura District,This district,./A photo of Nishi-Matsuura District
+219,"This music genre, that originated in",J-pop,This music,./A photo of J-pop
+220,The language of this work was a mixture of,Eclogues,this work,./A photo of Eclogues
+221,This show premieres on,How to Make It in America,This show,./A photo of How to Make It in America
+222,This mountain belongs to the continent of,Schreckhorn,This mountain,./A photo of Schreckhorn
+223,This character is affiliated with the,Henry Pym,This character,./A photo of Henry Pym
+224,This school is located in the country of,Cairo American College,This school,./A photo of Cairo American College
+225,This person is affiliated with the religion of,Khalid ibn al-Walid,This person,./A photo of Khalid ibn al-Walid
+226,This person used a very interesting example of the use of the,"William Fitzwilliam, 4th Earl Fitzwilliam",This person,"./A photo of William Fitzwilliam, 4th Earl Fitzwilliam"
+227,This person is employed by the,Steve Claridge,This person,./A photo of Steve Claridge
+228,This person's native language is,Lisa Ekdahl,This person's,./A photo of Lisa Ekdahl
+229,This train line is located in the country of,Ginza Line,This train,./A photo of Ginza Line
+230,This processor is a product developed by,Core 2,This processor,./A photo of Core 2
+231,This person performs on the,Francis Poulenc,This person,./A photo of Francis Poulenc
+232,"In this city, the language spoken is",Raseborg,"this city,",./A photo of Raseborg
+233,This composer worked in the city of,Benjamin Britten,This composer,./A photo of Benjamin Britten
+234,"In this country, the language spoken is a mix of",Seychelles,"this country,",./A photo of Seychelles
+235,This musician performs on the,Count Basie,This musician,./A photo of Count Basie
+236,The headquarter of this educational institution is in,State University of New York,this educational,./A photo of State University of New York
+237,This person originates from the city of,Bilal ibn Ribah,This person,./A photo of Bilal ibn Ribah
+238,"In this municipality, the language spoken is",Sundsvall Municipality,"this municipality,",./A photo of Sundsvall Municipality
+239,This player professionally plays the sport of,Walter Payton,This player,./A photo of Walter Payton
+240,This person was born in the city of,Riona Hazuki,This person,./A photo of Riona Hazuki
+241,This station is owned by the,Gangnam Station,This station,./A photo of Gangnam Station
+242,This town is located in the country of,Siemiatycze,This town,./A photo of Siemiatycze
+243,This person holds the title of the first openly gay,Annise Parker,This person,./A photo of Annise Parker
+244,This song is written in,Optimistique-moi,This song,./A photo of Optimistique-moi
+245,This player professionally plays the sport of,Maurice Richard,This player,./A photo of Maurice Richard
+246,This ruler follows the religion of,Farouk of Egypt,This ruler,./A photo of Farouk of Egypt
+247,This person's profession is a bit similar to that of a,David Weigel,This person's,./A photo of David Weigel
+248,This show debuted on,Meet the Press,This show,./A photo of Meet the Press
+249,This database is owned by,Knowledge Graph,This database,./A photo of Knowledge Graph
+250,This software is a product developed by,File Explorer,This software,./A photo of File Explorer
+251,"This band, founded in 1991, is a feminist punk band from",Sleater-Kinney,"This band,",./A photo of Sleater-Kinney
+252,This person plays in the position of a defensive,Vegard Skogheim,This person,./A photo of Vegard Skogheim
+253,This person was born in the country of,Dannii Minogue,This person,./A photo of Dannii Minogue
+254,"This place, which was named after the city of",Kyōto Prefecture,"This place,",./A photo of Kyōto Prefecture
+255,This person worked in the city of,Jean Tinguely,This person,./A photo of Jean Tinguely
+256,This landmark is within the city limits of the city of,Galata,This landmark,./A photo of Galata
+257,This company is headquartered in,Godrej Consumer Products Limited,This company,./A photo of Godrej Consumer Products Limited
+258,This person was born in,Henri Estienne,This person,./A photo of Henri Estienne
+259,This series was created in the country of,Hidamari Sketch,This series,./A photo of Hidamari Sketch
+260,This artist died in the city of,Sandro Botticelli,This artist,./A photo of Sandro Botticelli
+261,The genre played by this person is the same as the one played by the great,Count Basie,this person,./A photo of Count Basie
+262,This person professionally plays the sport of,Bubba Smith,This person,./A photo of Bubba Smith
+263,This country belongs to the continent of,Afghanistan,This country,./A photo of Afghanistan
+264,This work was originally written in the language of,Tusculanae Disputationes,This work,./A photo of Tusculanae Disputationes
+265,This person is employed by,Satoru Iwata,This person,./A photo of Satoru Iwata
+266,This person follows the religion of,Hyder Ali,This person,./A photo of Hyder Ali
+267,This person is a citizen of,Mykola Tomenko,This person,./A photo of Mykola Tomenko
+268,This mountain is located in the continent of,Mount Cocks,This mountain,./A photo of Mount Cocks
+269,This person's native language is,Maurice Faure,This person's,./A photo of Maurice Faure
+270,"This person, who works as a",Jacobo Zabludovsky,"This person,",./A photo of Jacobo Zabludovsky
+271,This city is in the heart of the,Lufkin,This city,./A photo of Lufkin
+272,This component is a product of the,Platform Controller Hub,This component,./A photo of Platform Controller Hub
+273,This person held the position of the first,Saint Perpetuus,This person,./A photo of Saint Perpetuus
+274,This player professionally plays the sport of ice,Jaromír Jágr,This player,./A photo of Jaromír Jágr
+275,This series premieres on,Show Me a Hero,This series,./A photo of Show Me a Hero
+276,This organization is a part of the,Brazilian Football Confederation,This organization,./A photo of Brazilian Football Confederation
+277,This person is employed by the,Jeremy Paxman,This person,./A photo of Jeremy Paxman
+278,This person is a citizen of,Claude d'Annebault,This person,./A photo of Claude d'Annebault
+279,This person is affiliated with the religion of,Sukarno,This person,./A photo of Sukarno
+280,This athlete professionally plays the sport of,Tim Horton,This athlete,./A photo of Tim Horton
+281,This organization's expertise is in the areas of,Australian Mathematical Society,This organization's,./A photo of Australian Mathematical Society
+282,"This variety of grape, which is named for the region of",Cabernet Franc,This variety of grape,./A photo of Cabernet Franc
+283,This person works for the,Greg Dyke,This person,./A photo of Greg Dyke
+284,"This person, who has the position of a",Germanus of Auxerre,"This person,",./A photo of Germanus of Auxerre
+285,This game features a genre of,RuneScape,This game,./A photo of RuneScape
+286,This person is originally from,Eiko Koike,This person,./A photo of Eiko Koike
+287,This player plays in the position of,Josh McCown,This player,./A photo of Josh McCown
+288,"This person, who has a citizenship of",Frederick Noronha,"This person,",./A photo of Frederick Noronha
+289,This gang was created in the early 1980s by a group of,North Side Gang,This gang,./A photo of North Side Gang
+290,This person worked in the city of,Franz Xaver Gabelsberger,This person,./A photo of Franz Xaver Gabelsberger
+291,This place is located in the country of,"Saint-Louis-de-Kent, New Brunswick",This place,"./A photo of Saint-Louis-de-Kent, New Brunswick"
+292,"This person, who has the position of a",Quirinus of Sescia,"This person,",./A photo of Quirinus of Sescia
+293,This person worked in the city of,Otto von Bismarck,This person,./A photo of Otto von Bismarck
+294,This medical college is located in the country of,Christian Medical College Ludhiana,This medical,./A photo of Christian Medical College Ludhiana
+295,The capital city of this empire is,Austrian Empire,this empire,./A photo of Austrian Empire
+296,This text is written in the,Masoretic Text,This text,./A photo of Masoretic Text
+297,This person is native to,Inoue Genan Inseki,This person,./A photo of Inoue Genan Inseki
+298,This software was created by a team of developers from the,IntelliPoint,This software,./A photo of IntelliPoint
+299,The native language of this person is,Pierre Blanchar,this person,./A photo of Pierre Blanchar
+300,This person plays in the position of a defensive,Ivan Gudelj,This person,./A photo of Ivan Gudelj
+301,This institute's expertise is in the areas of,Courant Institute of Mathematical Sciences,This institute's,./A photo of Courant Institute of Mathematical Sciences
+302,This person was born in,Alexandre Mercereau,This person,./A photo of Alexandre Mercereau
+303,The headquarter of this company is in,Russian Post,this company,./A photo of Russian Post
+304,This conflict is located in the north-west of,Taliban insurgency,This conflict,./A photo of Taliban insurgency
+305,The location of this school is in,Edina High School,this school,./A photo of Edina High School
+306,This fashion company originated in,Prada,This fashion,./A photo of Prada
+307,This person died in the city of,Paul Morand,This person,./A photo of Paul Morand
+308,This player plays in the position of,Mike Piazza,This player,./A photo of Mike Piazza
+309,This character was created in the country of his birth.,Lupin III,This character,./A photo of Lupin III
+310,This city is located in the country of,Marugame,This city,./A photo of Marugame
+311,This book's language is a perfect example of the way that the,Anna Karenina,This book's,./A photo of Anna Karenina
+312,"This person, who previously held the position of the",Benedict XVI,This person,./A photo of Benedict XVI
+313,This profession works in the field of,air traffic control,This profession,./A photo of air traffic control
+314,This product line is developed by,Amiibo,This product,./A photo of Amiibo
+315,This person's native language is,Sergey Aksyonov,This person's,./A photo of Sergey Aksyonov
+316,This person speaks during a news conference at the,Francis Blanche,This person,./A photo of Francis Blanche
+317,The original language of this film was written in the,Kadhalil Sodhappuvadhu Yeppadi,this film,./A photo of Kadhalil Sodhappuvadhu Yeppadi
+318,This accessory is developed by,PlayStation Eye,This accessory,./A photo of PlayStation Eye
+319,This person worked in the city of,Georges Ernest Boulanger,This person,./A photo of Georges Ernest Boulanger
+320,The original language of this film is a,Ma vie en rose,this film,./A photo of Ma vie en rose
+321,This person's native language is,Georges Pompidou,This person's,./A photo of Georges Pompidou
+322,This mobile operating system is developed by,Windows Phone 7,This mobile,./A photo of Windows Phone 7
+323,This athlete plays in the position of,Barry Zito,This athlete,./A photo of Barry Zito
+324,This person follows the religion of,Ruhollah Khomeini,This person,./A photo of Ruhollah Khomeini
+325,This smartphone is developed by,iPhone,This smartphone,./A photo of iPhone
+326,This publication is written in,Charlie Hebdo,This publication,./A photo of Charlie Hebdo
+327,This person is known for performing in the world's most prestigious,Alexander Knaifel,This person,./A photo of Alexander Knaifel
+328,This person passed away in a hospital in the city of,Morteza Momayez,This person,./A photo of Morteza Momayez
+329,The owner of this historic landmark is,Rancho Petaluma Adobe,this historic,./A photo of Rancho Petaluma Adobe
+330,"This person, who works as a",Hilaire Belloc,"This person,",./A photo of Hilaire Belloc
+331,"This media organization, that originated in",Hellenic Broadcasting Corporation,This media,./A photo of Hellenic Broadcasting Corporation
+332,This song is written in the,aloha,This song,./A photo of aloha
+333,This person was born in,Mako Idemitsu,This person,./A photo of Mako Idemitsu
+334,This person is affiliated with the religion of,Uqba ibn Nafi,This person,./A photo of Uqba ibn Nafi
+335,"In this place, the language spoken is a mixture of",Aarau,"this place,",./A photo of Aarau
+336,"This place, in the north-east of",Mizoram,"This place,",./A photo of Mizoram
+337,This player professionally plays the sport of,Moses Malone,This player,./A photo of Moses Malone
+338,This strait is located in the continent of,Gerlache Strait,This strait,./A photo of Gerlache Strait
+339,This location is a part of the continent of,Hurricane Ridge,This location,./A photo of Hurricane Ridge
+340,This platform is owned by,YouTube,This platform,./A photo of YouTube
+341,This person works in the area of theoretical,Michio Kaku,This person,./A photo of Michio Kaku
+342,"In this city, the language spoken is",Petrozavodsk,"this city,",./A photo of Petrozavodsk
+343,"This person, associated with the company of",Phil Knight,"This person,",./A photo of Phil Knight
+344,This person's profession is to be a,Martha Nussbaum,This person's,./A photo of Martha Nussbaum
+345,This person is employed by,Paul Otellini,This person,./A photo of Paul Otellini
+346,This person's profession is an,Yanis Varoufakis,This person's,./A photo of Yanis Varoufakis
+347,This person performs on the,George Martin,This person,./A photo of George Martin
+348,This glacier belongs to the continent of,Howard Glacier,This glacier,./A photo of Howard Glacier
+349,This street can be found in the heart of,Fifth Avenue,This street,./A photo of Fifth Avenue
+350,This organization is a part of the,National Football Federation of Guatemala,This organization,./A photo of National Football Federation of Guatemala
+351,"This car, produced by",Alfa Romeo MiTo,"This car,",./A photo of Alfa Romeo MiTo
+352,This brand was founded in,Rimmel,This brand,./A photo of Rimmel
+353,This train company was formed in the year of,SNCF,This train,./A photo of SNCF
+354,This company formed in 2011 and is based in,Rogers Media,This company,./A photo of Rogers Media
+355,This person's expertise is in the theory of algebraic,David Hilbert,This person's,./A photo of David Hilbert
+356,This rural district is located in the country of,Gavork-e Nalin Rural District,This rural,./A photo of Gavork-e Nalin Rural District
+357,The language of this publication was not the language of the,L'Histoire,this publication,./A photo of L'Histoire
+358,"In this city, the official language is",Melitopol,"this city,",./A photo of Melitopol
+359,This poet follows the religion of,Hafez,This poet,./A photo of Hafez
+360,This person works in the field of,Giordano Bruno,This person,./A photo of Giordano Bruno
+361,This place is located in the heart of,Galerie des Machines,This place,./A photo of Galerie des Machines
+362,This show debuted on,The New Dick Van Dyke Show,This show,./A photo of The New Dick Van Dyke Show
+363,This person follows the religion of,Ahmad al-Badawi,This person,./A photo of Ahmad al-Badawi
+364,The location of this community is in the northern part of,Hualapai people,this community,./A photo of Hualapai people
+365,This person's expertise is not only in the field of,Paracelsus,This person's,./A photo of Paracelsus
+366,"This bank, that originated in",Banco di Napoli,"This bank,",./A photo of Banco di Napoli
+367,This person's domain of work is the study of the,Stephen Jay Gould,This person's,./A photo of Stephen Jay Gould
+368,This person professionally plays the sport of,Mark Messier,This person,./A photo of Mark Messier
+369,The language of this show is a mixture of,Amar en tiempos revueltos,this show,./A photo of Amar en tiempos revueltos
+370,"This place, from the",Joe Louis Arena,"This place,",./A photo of Joe Louis Arena
+371,"In this country, the language spoken is",Grenada,"this country,",./A photo of Grenada
+372,"This athlete, who has a citizenship of",Vita Semerenko,"This athlete,",./A photo of Vita Semerenko
+373,This show premiered on,Alvin and the Chipmunks,This show,./A photo of Alvin and the Chipmunks
+374,"This person, whose position is that of a superior",Pius VIII,"This person,",./A photo of Pius VIII
+375,This show was released on,Law & Order,This show,./A photo of Law & Order
+376,This person is employed by,Brian Krzanich,This person,./A photo of Brian Krzanich
+377,This school is located in the heart of,The New School for Jazz and Contemporary Music,This school,./A photo of The New School for Jazz and Contemporary Music
+378,This news program originated from the country of,Pilipinas News,This news,./A photo of Pilipinas News
+379,"This person, whose position is that of a ""superior""",Pius XII,"This person,",./A photo of Pius XII
+380,This software is developed by,iTunes,This software,./A photo of iTunes
+381,This person is employed by the,Gary Lineker,This person,./A photo of Gary Lineker
+382,This person's profession is an,Kurt Kreuger,This person's,./A photo of Kurt Kreuger
+383,This show premieres on,Big Love,This show,./A photo of Big Love
+384,This place is located in the north of,Shetland Islands,This place,./A photo of Shetland Islands
+385,This artist died in the city of,Giacinto Brandi,This artist,./A photo of Giacinto Brandi
+386,The original language of this television series is,Plus belle la vie,this television,./A photo of Plus belle la vie
+387,This publication's expertise is in the field of quantum,European Physical Journal,This publication's,./A photo of European Physical Journal
+388,This festival can be found in the,Maryland Film Festival,This festival,./A photo of Maryland Film Festival
+389,This airport is owned by the,O'Hare International Airport,This airport,./A photo of O'Hare International Airport
+390,The official language of this country is,Peru,this country,./A photo of Peru
+391,This person was born in,Georges Duhamel,This person,./A photo of Georges Duhamel
+392,This person is affiliated with the religion of,Sharmila Tagore,This person,./A photo of Sharmila Tagore
+393,"In this city, the language spoken is",Helsinki,"this city,",./A photo of Helsinki
+394,This person's domain of work is the,William Camden,This person's,./A photo of William Camden
+395,This composer was born in,Claude Arrieu,This composer,./A photo of Claude Arrieu
+396,"In this place, the language spoken is",Udmurt Autonomous Soviet Socialist Republic,"this place,",./A photo of Udmurt Autonomous Soviet Socialist Republic
+397,This character is a member of the,Jessica Jones,This character,./A photo of Jessica Jones
+398,This person's native language is,Delphine de Girardin,This person's,./A photo of Delphine de Girardin
+399,This person is a citizen of,Auguste Rodin,This person,./A photo of Auguste Rodin
+400,This TV series debuted on,Teen Mom,This TV,./A photo of Teen Mom
+401,This anthem is located in the country of,Argentine National Anthem,This anthem,./A photo of Argentine National Anthem
+402,This historian was born in the city of,Jules Michelet,This historian,./A photo of Jules Michelet
+403,This glacier belongs to the continent of,Kirkby Glacier,This glacier,./A photo of Kirkby Glacier
+404,This person worked in the city of,Otto Hauser,This person,./A photo of Otto Hauser
+405,The language of this film is a mixture of,Lapland Odyssey,this film,./A photo of Lapland Odyssey
+406,This artist is originally from,Giacinto Brandi,This artist,./A photo of Giacinto Brandi
+407,This person is employed by the,Delia Derbyshire,This person,./A photo of Delia Derbyshire
+408,This person is a citizen of,Shigeki Maruyama,This person,./A photo of Shigeki Maruyama
+409,This service is a product of the,Windows Genuine Advantage,This service,./A photo of Windows Genuine Advantage
+410,This person worked in the city of,"Elizabeth Butler-Sloss, Baroness Butler-Sloss",This person,"./A photo of Elizabeth Butler-Sloss, Baroness Butler-Sloss"
+411,This glacier belongs to the continent of,Emmanuel Glacier,This glacier,./A photo of Emmanuel Glacier
+412,"This aircraft, developed by",EA-18G Growler,"This aircraft,",./A photo of EA-18G Growler
+413,This person died in the city of,Julian Huxley,This person,./A photo of Julian Huxley
+414,"This library software system, a product of the former",Dynix,This library,./A photo of Dynix
+415,This place is located in the country of,Eibenstock,This place,./A photo of Eibenstock
+416,This person holds the position of the first female,Acca of Hexham,This person,./A photo of Acca of Hexham
+417,This person worked in the city of,"Sir Francis Baring, 1st Baronet",This person,"./A photo of Sir Francis Baring, 1st Baronet"
+418,This software's owner is,Windows Media Player,This software's,./A photo of Windows Media Player
+419,This person's native language is,Georges Gorse,This person's,./A photo of Georges Gorse
+420,This person originates from the city of,Amol Palekar,This person,./A photo of Amol Palekar
+421,"This tablet, created by",Kindle Fire,"This tablet,",./A photo of Kindle Fire
+422,This person is native to,Koichi Ishii,This person,./A photo of Koichi Ishii
+423,This person passed away in,Gaetano Moroni,This person,./A photo of Gaetano Moroni
+424,The capital of this prefecture is the city of,Kyōto Prefecture,this prefecture,./A photo of Kyōto Prefecture
+425,This device is developed by,iPod Mini,This device,./A photo of iPod Mini
+426,The headquarters of this company are in,Mitsubishi Corporation,this company,./A photo of Mitsubishi Corporation
+427,This person plays the,Philip Glass,This person,./A photo of Philip Glass
+428,This website is written in,Animator.ru,This website,./A photo of Animator.ru
+429,This person died in,Alphonse James de Rothschild,This person,./A photo of Alphonse James de Rothschild
+430,The capital of this country is named after the,Beijing,this country,./A photo of Beijing
+431,This composer plays the instrument of the,Johann Strauss I,This composer,./A photo of Johann Strauss I
+432,The location of this museum is in the heart of,British Museum,this museum,./A photo of British Museum
+433,The location of this law school is in,Harvard Law School,this law,./A photo of Harvard Law School
+434,The original language of this album is a blend of,Voodoo Lounge,this album,./A photo of Voodoo Lounge
+435,This car model is developed by,Acura ZDX,This car,./A photo of Acura ZDX
+436,"This person, who held the position of a",Fulgentius of Ruspe,"This person,",./A photo of Fulgentius of Ruspe
+437,This river belongs to the continent of,Yangtze,This river,./A photo of Yangtze
+438,This newspaper is written in,Le Moniteur Universel,This newspaper,./A photo of Le Moniteur Universel
+439,This news agency's articles are written in,RIA Novosti,This news,./A photo of RIA Novosti
+440,This person is known for performing in the,Luciano Pavarotti,This person,./A photo of Luciano Pavarotti
+441,This game series is developed by,Final Fantasy,This game,./A photo of Final Fantasy
+442,This person works in the area of economics and,Vilfredo Pareto,This person,./A photo of Vilfredo Pareto
+443,This person is employed by,Steve Ballmer,This person,./A photo of Steve Ballmer
+444,This person died in the city of,Antonio Marcello Barberini,This person,./A photo of Antonio Marcello Barberini
+445,This operating system is developed by,Windows Phone 8.1,This operating system,./A photo of Windows Phone 8.1
+446,This phone series is developed by,Lumia series,This phone,./A photo of Lumia series
+447,This company was created in the country of,Scania,This company,./A photo of Scania
+448,This newspaper is written in,Le Quotidien de Paris,This newspaper,./A photo of Le Quotidien de Paris
+449,This city belongs to the continent of,Toulouse,This city,./A photo of Toulouse
+450,The capital of this country is,Indonesia,this country,./A photo of Indonesia
+451,This person's native language is,Bernard Giraudeau,This person's,./A photo of Bernard Giraudeau
+452,The original language of this film is a mixture of,Il Posto,this film,./A photo of Il Posto
+453,This person follows the religion of,Hersekzade Ahmed Pasha,This person,./A photo of Hersekzade Ahmed Pasha
+454,This service was created by the folks at,iTunes Radio,This service,./A photo of iTunes Radio
+455,"This flooring material, that originated in",tatami,This flooring,./A photo of tatami
+456,"This person, who has the position of",Gregory of Nazianzus,"This person,",./A photo of Gregory of Nazianzus
+457,The original language of this film was written in,Die Nibelungen,this film,./A photo of Die Nibelungen
+458,This show premieres on,The Young and the Restless,This show,./A photo of The Young and the Restless
+459,This person died in the city of,Yves Rocard,This person,./A photo of Yves Rocard
+460,This game is developed by,Mario Bros.,This game,./A photo of Mario Bros.
+461,This historical period belongs to the continent of,Viking Age,This historical,./A photo of Viking Age
+462,This glacier belongs to the continent of,Sjogren Glacier,This glacier,./A photo of Sjogren Glacier
+463,This person worked in the city of,David Mellor,This person,./A photo of David Mellor
+464,This person died in the city of,Donato Bramante,This person,./A photo of Donato Bramante
+465,"This car model, developed by",Lexus LF,This car,./A photo of Lexus LF
+466,This operating system is created by,Windows Embedded CE 6.0,This operating,./A photo of Windows Embedded CE 6.0
+467,This person follows the religion of,Abdolkarim Soroush,This person,./A photo of Abdolkarim Soroush
+468,The native language of this person is,Alfred Savoir,this person,./A photo of Alfred Savoir
+469,The headquarter of this political party is located in the city of,All India Anna Dravida Munnetra Kazhagam,this political,./A photo of All India Anna Dravida Munnetra Kazhagam
+470,This show premiered on the,Microsoap,This show,./A photo of Microsoap
+471,This person was born in,Adolphe d'Ennery,This person,./A photo of Adolphe d'Ennery
+472,This show premieres on,The Late Late Show with Craig Ferguson,This show,./A photo of The Late Late Show with Craig Ferguson
+473,This person is a citizen of,Arne Vidar Røed,This person,./A photo of Arne Vidar Røed
+474,This person worked in the office of the mayor of the city of,Antoni Brodowski,This person,./A photo of Antoni Brodowski
+475,"This person, of",Jeff Zucker,"This person,",./A photo of Jeff Zucker
+476,This song is written in,Ne partez pas sans moi,This song,./A photo of Ne partez pas sans moi
+477,The capital of this country is,Peru,this country,./A photo of Peru
+478,"This musician, who plays the role of a",Miles Davis,"This musician,",./A photo of Miles Davis
+479,This tournament is located in,2004 Australian Open,This tournament,./A photo of 2004 Australian Open
+480,This museum is located in,Norwegian Museum of Cultural History,This museum,./A photo of Norwegian Museum of Cultural History
+481,This person is employed by the,Jeremy Vine,This person,./A photo of Jeremy Vine
+482,This pub is located in the heart of,"Hope and Anchor, Islington",This pub,"./A photo of Hope and Anchor, Islington"
+483,This microarchitecture is developed by,Sandy Bridge,This microarchitecture,./A photo of Sandy Bridge
+484,The capital of this country was,Second Spanish Republic,this country,./A photo of Second Spanish Republic
+485,This newspaper is written in,Le Mauricien,This newspaper,./A photo of Le Mauricien
+486,This software is developed by,Windows Live Mail,This software,./A photo of Windows Live Mail
+487,The capital city of this historical government is,Commonwealth of England,this historical,./A photo of Commonwealth of England
+488,"This series, that originated in",Tokyo Mew Mew,"This series,",./A photo of Tokyo Mew Mew
+489,The genre played by this book is a mix of,The Enchanter Reborn,this book,./A photo of The Enchanter Reborn
+490,This glacier belongs to the continent of,Johnson Glacier,This glacier,./A photo of Johnson Glacier
+491,This person follows the religion of,Dildar Ali Naseerabadi,This person,./A photo of Dildar Ali Naseerabadi
+492,This person's native language is,Marguerite Yourcenar,This person's,./A photo of Marguerite Yourcenar
+493,This fashion brand was started in,Chanel,This fashion brand,./A photo of Chanel
+494,This phone model is developed by,iPhone 3GS,This phone,./A photo of iPhone 3GS
+495,The language of this album was a mixture of,Mi Reflejo,this album,./A photo of Mi Reflejo
+496,This city belongs to the continent of,Chandigarh,This city,./A photo of Chandigarh
+497,This show debuted on,Outside the Lines,This show,./A photo of Outside the Lines
+498,This person was born in the city of,Hideki Shirakawa,This person,./A photo of Hideki Shirakawa
+499,The headquarter of this company is in,Weta Digital,this company,./A photo of Weta Digital
+500,This person died in the city of,William Bayliss,This person,./A photo of William Bayliss
+501,This person professionally plays the sport of,Juninho Pernambucano,This person,./A photo of Juninho Pernambucano
+502,This version of the software is developed by,Internet Explorer 10,This version,./A photo of Internet Explorer 10
+503,This athlete professionally plays the sport of,Russell Wilson,This athlete,./A photo of Russell Wilson
+504,This person follows the religion of,Ibn Battuta,This person,./A photo of Ibn Battuta
+505,The original language of this work was written in,De Officiis,this work,./A photo of De Officiis
+506,This person works for the,Lyse Doucet,This person,./A photo of Lyse Doucet
+507,The headquarter of this team is located in the heart of downtown.,Minnesota Strikers,this team,./A photo of Minnesota Strikers
+508,This person died in the city of,"Sir William Dunn, 1st Baronet, of Lakenheath",This person,"./A photo of Sir William Dunn, 1st Baronet, of Lakenheath"
+509,This accessory is produced by,Wii Balance Board,This accessory,./A photo of Wii Balance Board
+510,"This person, of",Gwen Ifill,"This person,",./A photo of Gwen Ifill
+511,This person follows the religion of,Osman I,This person,./A photo of Osman I
+512,This person is a citizen of,Henri Maurice Berteaux,This person,./A photo of Henri Maurice Berteaux
+513,This place belongs to the continent of,The Hague,This place,./A photo of The Hague
+514,This university is located in the country of,Myongji University,This university,./A photo of Myongji University
+515,This organization is a part of the,Costa Rican Football Federation,This organization,./A photo of Costa Rican Football Federation
+516,This show premieres on,Trailer Park Boys,This show,./A photo of Trailer Park Boys
+517,This person plays in the position of a central,Gareth Barry,This person,./A photo of Gareth Barry
+518,This airport is called after the airport in,Gatwick Airport,This airport,./A photo of Gatwick Airport
+519,The capital city of this country is,Second Polish Republic,this country,./A photo of Second Polish Republic
+520,This person works in the field of,Charles Babbage,This person,./A photo of Charles Babbage
+521,This person died in the city of,Charles Louis Alphonse Laveran,This person,./A photo of Charles Louis Alphonse Laveran
+522,This person is a citizen of,Buichi Terasawa,This person,./A photo of Buichi Terasawa
+523,This county is in the middle of the,Nez Perce County,This county,./A photo of Nez Perce County
+524,"In this region, the language spoken is",Luhansk Oblast,"this region,",./A photo of Luhansk Oblast
+525,This person's expertise is in the field of,Tycho Brahe,This person's,./A photo of Tycho Brahe
+526,This show is written in,Sesamstraat,This show,./A photo of Sesamstraat
+527,This newspaper was written in the late 19th century by a,Birobidzhaner Shtern,This newspaper,./A photo of Birobidzhaner Shtern
+528,This person is a citizen of,Mohammad-Taqi Mesbah-Yazdi,This person,./A photo of Mohammad-Taqi Mesbah-Yazdi
+529,"This game series, that originated in",Monster Rancher,This game series,./A photo of Monster Rancher
+530,The headquarter of this airline is in,United Airlines,this airline,./A photo of United Airlines
+531,This book is written in,La Vie,This book,./A photo of La Vie
+532,"This newspaper, created in 1891, is the oldest daily newspaper in",Buenos Aires Herald,"This newspaper,",./A photo of Buenos Aires Herald
+533,"In this country, the language spoken is",Argentina,"this country,",./A photo of Argentina
+534,This person was born in the city of,Matias Kupiainen,This person,./A photo of Matias Kupiainen
+535,This team is affiliated with the,Spain national football team,This team,./A photo of Spain national football team
+536,This place is located in the country of,Isola Dovarese,This place,./A photo of Isola Dovarese
+537,This show debuted on,The Bill Cosby Show,This show,./A photo of The Bill Cosby Show
+538,The native language of this person is,Anastasy Vonsyatsky,this person,./A photo of Anastasy Vonsyatsky
+539,This institution is in the process of establishing a new university in,Open University of Catalonia,This institution,./A photo of Open University of Catalonia
+540,This streaming service started in,Bandai Channel,This streaming,./A photo of Bandai Channel
+541,The headquarter of this organization is in,Canada West Foundation,this organization,./A photo of Canada West Foundation
+542,"This vehicle, developed by",Lexus RX,"This vehicle,",./A photo of Lexus RX
+543,This person is a citizen of,Henrik Zetterberg,This person,./A photo of Henrik Zetterberg
+544,This person's native language is,Alexandre Auguste Ledru-Rollin,This person's,./A photo of Alexandre Auguste Ledru-Rollin
+545,"This artist, playing the",Aretha Franklin,"This artist,",./A photo of Aretha Franklin
+546,This player plays in the position of,Sean Glennon,This player,./A photo of Sean Glennon
+547,The capital city of this country is,Kingdom of the Netherlands,this country,./A photo of Kingdom of the Netherlands
+548,This person is known for performing in the world's most famous,Raina Kabaivanska,This person,./A photo of Raina Kabaivanska
+549,The original language of this film is a mixture of,Chennai 600028,this film,./A photo of Chennai 600028
+550,This historical region belongs to the continent of,Prussian Partition,This historical,./A photo of Prussian Partition
+551,This person worked in the city of,Joseph Locke,This person,./A photo of Joseph Locke
+552,This newspaper is written in,Die Tageszeitung,This newspaper,./A photo of Die Tageszeitung
+553,This song is written in,A las Barricadas,This song,./A photo of A las Barricadas
+554,"In this city, the language spoken is a mixture of",Geneva,"this city,",./A photo of Geneva
+555,This society's expertise is in the field of organic,Italian Chemical Society,This society's,./A photo of Italian Chemical Society
+556,This person is employed by the,Terry Wogan,This person,./A photo of Terry Wogan
+557,This gaming console is developed by,Wii U,This gaming,./A photo of Wii U
+558,This show originally aired on the,The Famous Teddy Z,This show,./A photo of The Famous Teddy Z
+559,This event can be found in,Gamescom,This event,./A photo of Gamescom
+560,The headquarter of this organization is in downtown,Mayo Clinic,this organization,./A photo of Mayo Clinic
+561,This scientist is known for his work in the area of quantum physics.,David Bohm,This scientist,./A photo of David Bohm
+562,The capital city of this historic state is,Abbasid Caliphate,this historic state,./A photo of Abbasid Caliphate
+563,This place is situated in the south of,Hohenlohe,This place,./A photo of Hohenlohe
+564,This person originates from the city of,Aisha,This person,./A photo of Aisha
+565,This person plays the instrument of the,Tomaso Antonio Vitali,This person,./A photo of Tomaso Antonio Vitali
+566,This person died in the city of,Tony Benn,This person,./A photo of Tony Benn
+567,"In this region, the language spoken is",Asturias,"this region,",./A photo of Asturias
+568,This software is developed by,Android Auto,This software,./A photo of Android Auto
+569,This journalist is employed by the,Jon Sopel,This journalist,./A photo of Jon Sopel
+570,This person plays the,Romain-Octave Pelletier I,This person,./A photo of Romain-Octave Pelletier I
+571,"This person, whose position is that of a",Saint Boniface,"This person,",./A photo of Saint Boniface
+572,This newspaper is written in,Kieler Nachrichten,This newspaper,./A photo of Kieler Nachrichten
+573,This player professionally plays the sport of,Jerry West,This player,./A photo of Jerry West
+574,"In this place, the language spoken is",South Georgia and the South Sandwich Islands,"this place,",./A photo of South Georgia and the South Sandwich Islands
+575,The capital of this former state is,United Kingdom of Great Britain and Ireland,this former state,./A photo of United Kingdom of Great Britain and Ireland
+576,This person plays the,Franz Liszt,This person,./A photo of Franz Liszt
+577,The capital of this region is the city of,Central Bohemian Region,this region,./A photo of Central Bohemian Region
+578,This rifle was created in the country of,Arisaka,This rifle,./A photo of Arisaka
+579,The capital of this region is,Lazio,this region,./A photo of Lazio
+580,This football league is located in the country of,Eredivisie,This football,./A photo of Eredivisie
+581,The headquarters of this archive are in the city of,Russian State Archive of Literature and Art,this archive,./A photo of Russian State Archive of Literature and Art
+582,This county was named after the city of,Pittsburg County,This county,./A photo of Pittsburg County
+583,This person is employed by the,John Humphrys,This person,./A photo of John Humphrys
+584,This scientist passed away in,Evgeny Lifshitz,This scientist,./A photo of Evgeny Lifshitz
+585,This presenter is employed by the,Victoria Derbyshire,This presenter,./A photo of Victoria Derbyshire
+586,This canal is within the boundaries of the city of,Griebnitz Canal,This canal,./A photo of Griebnitz Canal
+587,"In this country, the language spoken is",Iran,"this country,",./A photo of Iran
+588,The native language of this person is,Nikolay Strakhov,this person,./A photo of Nikolay Strakhov
+589,This musician performs on the,Alice Coltrane,This musician,./A photo of Alice Coltrane
+590,This person died at the age of 87 in,Ernst Reuter,This person,./A photo of Ernst Reuter
+591,The capital of this territory was,Spanish East Indies,this territory,./A photo of Spanish East Indies
+592,"This person, who has a citizenship of",Peggy Nash,"This person,",./A photo of Peggy Nash
+593,This event occurred in the city of,King David Hotel bombing,This event,./A photo of King David Hotel bombing
+594,This person uses a language very similar to the language used by the,Ch'ien Mu,This person,./A photo of Ch'ien Mu
+595,This person worked in the city of,Louis Nicolas Vauquelin,This person,./A photo of Louis Nicolas Vauquelin
+596,This person speaks to the media after a meeting with the,Jean-Jacques Annaud,This person,./A photo of Jean-Jacques Annaud
+597,This football club is headquartered in the heart of,St Patrick's Athletic F.C.,This football club,./A photo of St Patrick's Athletic F.C.
+598,The native language of this person is,Edward Bulwer-Lytton,this person,./A photo of Edward Bulwer-Lytton
+599,This person works in the field of,Lev Vygotsky,This person,./A photo of Lev Vygotsky
+600,"This newspaper, that originated in",Mainichi Shinbun,"This newspaper,",./A photo of Mainichi Shinbun
+601,The official religion of this school is,Talmud Torah school,this school,./A photo of Talmud Torah school
+602,The location of this cemetery is in the heart of the city of,National Memorial Cemetery of the Pacific,this cemetery,./A photo of National Memorial Cemetery of the Pacific
+603,"This series, that originated in",Nodame Cantabile,"This series,",./A photo of Nodame Cantabile
+604,This person follows the religion of,Al-Mutawakkil,This person,./A photo of Al-Mutawakkil
+605,"In the history of this region, the language spoken is",history of Limousin,"this region,",./A photo of history of Limousin
+606,This person is employed by,Bill Gates,This person,./A photo of Bill Gates
+607,"This person, who has a citizenship of",Frans Hubert Edouard Arthur Walter Robyns,"This person,",./A photo of Frans Hubert Edouard Arthur Walter Robyns
+608,"This airport, called after the plane was diverted to",O'Hare International Airport,"This airport,",./A photo of O'Hare International Airport
+609,The location of this tournament is in the heart of,2000 Australian Open,this tournament,./A photo of 2000 Australian Open
+610,This aircraft is developed by,C-135 Stratolifter,This aircraft,./A photo of C-135 Stratolifter
+611,This athlete professionally plays the sport of,LeBron James,This athlete,./A photo of LeBron James
+612,This person worked in the city of,Philippus van Limborch,This person,./A photo of Philippus van Limborch
+613,"This venue, from the",KeyArena,"This venue,",./A photo of KeyArena
+614,This person is employed by,Chris Cuomo,This person,./A photo of Chris Cuomo
+615,This person is a citizen of,Mohsen Mirdamadi,This person,./A photo of Mohsen Mirdamadi
+616,This character is affiliated with the,Ant-Man,This character,./A photo of Ant-Man
+617,This cheese was created in the country of its origin.,Caciocavallo,This cheese,./A photo of Caciocavallo
+618,This show debuted on,The Good Wife,This show,./A photo of The Good Wife
+619,The capital of this kingdom was,Kingdom of Egypt,this kingdom,./A photo of Kingdom of Egypt
+620,The location of this building is in the centre of,Parliament of Norway Building,this building,./A photo of Parliament of Norway Building
+621,This place belongs to the continent of,Handel Ice Piedmont,This place,./A photo of Handel Ice Piedmont
+622,"In this region, the language spoken is a dialect of",Zabaykalsky Krai,"this region,",./A photo of Zabaykalsky Krai
+623,This region is located in the country of,Kamchatka Krai,This region,./A photo of Kamchatka Krai
+624,The headquarter of this airline is in,Alitalia-Linee Aeree Italiane,this airline,./A photo of Alitalia-Linee Aeree Italiane
+625,This federation belongs to the organization of the,Association of Football Federations of Azerbaijan,This federation,./A photo of Association of Football Federations of Azerbaijan
+626,This computer is developed by,Mac Pro,This computer,./A photo of Mac Pro
+627,This person passed away in,"Juan Prim, 1st Marquis of los Castillejos",This person,"./A photo of Juan Prim, 1st Marquis of los Castillejos"
+628,This show debuted on,Late Night with Conan O'Brien,This show,./A photo of Late Night with Conan O'Brien
+629,This person is a citizen of,Subodh Kant Sahay,This person,./A photo of Subodh Kant Sahay
+630,This person is a citizen of,Nagendra Singh,This person,./A photo of Nagendra Singh
+631,This person is affiliated with the religion of,Selim I,This person,./A photo of Selim I
+632,This series was created in the country of,Tenchi Universe,This series,./A photo of Tenchi Universe
+633,The native language of this person is,Victor Prosper Considerant,this person,./A photo of Victor Prosper Considerant
+634,This organization's expertise is not in the field of,medical association,This organization's,./A photo of medical association
+635,"This mountain, in",Mauna Kea,"This mountain,",./A photo of Mauna Kea
+636,This airport is located in the city of,Manassas Regional Airport,This airport,./A photo of Manassas Regional Airport
+637,This person was born in,Gita Sahgal,This person,./A photo of Gita Sahgal
+638,This country's official language is,Ecuador,This country's,./A photo of Ecuador
+639,This person's native language is,Valentin Rasputin,This person's,./A photo of Valentin Rasputin
+640,"This company, that was founded in 1885 and is headquartered in",Rheinmetall MAN Military Vehicles,"This company,",./A photo of Rheinmetall MAN Military Vehicles
+641,This person holds the position of the first,Ansovinus,This person,./A photo of Ansovinus
+642,This stadium is owned by the city of,Giuseppe Meazza Stadium (San Siro),This stadium,./A photo of Giuseppe Meazza Stadium (San Siro)
+643,The capital of this empire was,Roman Empire,this empire,./A photo of Roman Empire
+644,This person died in the city of,"Ulrika Eleonora, Queen of Sweden",This person,"./A photo of Ulrika Eleonora, Queen of Sweden"
+645,This product is developed by,iPod Touch,This product,./A photo of iPod Touch
+646,This cheese was created in the country of,Saint-Marcellin,This cheese,./A photo of Saint-Marcellin
+647,The headquarter of this religious organization is in,Oratory of Saint Philip Neri,this religious,./A photo of Oratory of Saint Philip Neri
+648,This accessory was created by,Super Game Boy,This accessory,./A photo of Super Game Boy
+649,This person is employed by,Tim Cook,This person,./A photo of Tim Cook
+650,This region belongs to the continent of,Hong Kong,This region,./A photo of Hong Kong
+651,The capital city of this historical state is,Kingdom of Afghanistan,this historical,./A photo of Kingdom of Afghanistan
+652,The owner of this company is,Skype Technologies,this company,./A photo of Skype Technologies
+653,This tablet is developed by,iPad 4,This tablet,./A photo of iPad 4
+654,The headquarters of this company are in,SunTrust Banks,this company,./A photo of SunTrust Banks
+655,This glacier belongs to the continent of,Debenham Glacier,This glacier,./A photo of Debenham Glacier
+656,This club is located in the country of,Holycross-Ballycahill GAA,This club,./A photo of Holycross-Ballycahill GAA
+657,"This band performs a variety of musical styles, from",The Bays,This band,./A photo of The Bays
+658,This company is headquartered in,EDP Renewables North America,This company,./A photo of EDP Renewables North America
+659,This person worked in the city of,Adele Faccio,This person,./A photo of Adele Faccio
+660,This person did not use the language of the,Jean-Baptiste Marchand,This person,./A photo of Jean-Baptiste Marchand
+661,This show premieres on,The Sports Reporters,This show,./A photo of The Sports Reporters
+662,This organization is a part of the,Portuguese Football Federation,This organization,./A photo of Portuguese Football Federation
+663,This person worked in the city of,John Major,This person,./A photo of John Major
+664,This person died at the age of 93 in,Henri Herz,This person,./A photo of Henri Herz
+665,This player plays as a central,Yannick Cahuzac,This player,./A photo of Yannick Cahuzac
+666,The capital of this short-lived state was,Hungarian Soviet Republic,this short-lived,./A photo of Hungarian Soviet Republic
+667,This massif is a part of the continent of,Otway Massif,This massif,./A photo of Otway Massif
+668,"This person, who has the position of a",Maximianus of Ravenna,"This person,",./A photo of Maximianus of Ravenna
+669,This person plays in the position of,John Smoltz,This person,./A photo of John Smoltz
+670,"The book titled ""The Cossacks"" was written in the early 20th century by this author.",The Cossacks,this author,./A photo of The Cossacks
+671,The capital of this historical place is,Commonwealth of the Philippines,this historical,./A photo of Commonwealth of the Philippines
+672,This district is located in the country of,Sialkot district,This district,./A photo of Sialkot district
+673,This person holds the title of the first,Sabinus of Spoleto,This person,./A photo of Sabinus of Spoleto
+674,This stadium is located in,Lincoln Financial Field,This stadium,./A photo of Lincoln Financial Field
+675,"This person, who has the position of a",Ignatius of Antioch,"This person,",./A photo of Ignatius of Antioch
+676,This person is a citizen of the country of,Margarita Moran-Floirendo,This person,./A photo of Margarita Moran-Floirendo
+677,This software is developed by,Windows Live OneCare,This software,./A photo of Windows Live OneCare
+678,This person is employed by the,Alan Sugar,This person,./A photo of Alan Sugar
+679,"In this place, the language spoken is a mixture of",Engelberg,"this place,",./A photo of Engelberg
+680,The original language of this song is,Sous le ciel de Paris,this song,./A photo of Sous le ciel de Paris
+681,This building is in the heart of the city of,Federal Palace of Switzerland,This building,./A photo of Federal Palace of Switzerland
+682,This operating system is developed by,macOS,This operating,./A photo of macOS
+683,This person died in the city of,John Broadwood,This person,./A photo of John Broadwood
+684,The native language of this person is,Xavier Saint-Macary,this person,./A photo of Xavier Saint-Macary
+685,This person worked in the city of,Nitzan Horowitz,This person,./A photo of Nitzan Horowitz
+686,This person is a citizen of,Sadeq Larijani,This person,./A photo of Sadeq Larijani
+687,This athlete professionally plays the sport of,Jarome Iginla,This athlete,./A photo of Jarome Iginla
+688,This athlete professionally plays the sport of,Terrell Owens,This athlete,./A photo of Terrell Owens
+689,This person worked in the city of,Michael Foot,This person,./A photo of Michael Foot
+690,This vehicle is developed by,Jeep Grand Cherokee,This vehicle,./A photo of Jeep Grand Cherokee
+691,The original language of this album is a mixture of,Face Dances,this album,./A photo of Face Dances
+692,This software is developed by,Time Machine (macOS),This software,./A photo of Time Machine (macOS)
+693,"In this state, the language spoken is a mixture of",Tennessee,"this state,",./A photo of Tennessee
+694,The headquarter of this university is in,Fudan University,this university,./A photo of Fudan University
+695,This person passed away in,Stamatios Kleanthis,This person,./A photo of Stamatios Kleanthis
+696,The genre played by this person is the same as the one played by the great,Mercer Ellington,this person,./A photo of Mercer Ellington
+697,This player plays in the position of a defensive,Marco Tardelli,This player,./A photo of Marco Tardelli
+698,This show debuted on the,SpeedWeek,This show,./A photo of SpeedWeek
+699,This person plays the instrument of the,Sergiu Luca,This person,./A photo of Sergiu Luca
+700,The original language of this book is,Disquisitiones Arithmeticae,this book,./A photo of Disquisitiones Arithmeticae
+701,This composer performs on the,Robert Schumann,This composer,./A photo of Robert Schumann
+702,This person was born in the city of,Masako Natsume,This person,./A photo of Masako Natsume
+703,This person took up work in the,"Sir Charles Cayzer, 1st Baronet",This person,"./A photo of Sir Charles Cayzer, 1st Baronet"
+704,This project works in the area of,Polymath project,This project,./A photo of Polymath project
+705,The owner of this game studio is,Xbox Game Studios,this game,./A photo of Xbox Game Studios
+706,This show debuted on,Fat Albert and the Cosby Kids,This show,./A photo of Fat Albert and the Cosby Kids
+707,This presenter is employed by the,Jeremy Clarkson,This presenter,./A photo of Jeremy Clarkson
+708,"This person, playing the",Paul McCartney,"This person,",./A photo of Paul McCartney
+709,The language of this newspaper was a mixture of,La Hora,this newspaper,./A photo of La Hora
+710,This person is employed by the,Alasdair Milne,This person,./A photo of Alasdair Milne
+711,The native language of this person is,Roger Garaudy,this person,./A photo of Roger Garaudy
+712,This person is employed by,Eddy Cue,This person,./A photo of Eddy Cue
+713,The language used by this person is not the same as that used by the,Pierre de Marca,this person,./A photo of Pierre de Marca
+714,This gaming console is developed by,Game Boy Advance,This gaming,./A photo of Game Boy Advance
+715,This person's domain of work is the study of the,Arnold Hermann Ludwig Heeren,This person's,./A photo of Arnold Hermann Ludwig Heeren
+716,The capital of this region is,Czech Socialist Republic,this region,./A photo of Czech Socialist Republic
+717,This athlete professionally plays the sport of,Jackie Robinson,This athlete,./A photo of Jackie Robinson
+718,This place is in the,Vierlingsbeek,This place,./A photo of Vierlingsbeek
+719,"The genre played by this orchestra is a blend of classical,",Casa Loma Orchestra,this orchestra,./A photo of Casa Loma Orchestra
+720,This research center is located in,Patuxent Wildlife Research Center,This research center,./A photo of Patuxent Wildlife Research Center
+721,The original language of this opera is,Les Francs-juges,this opera,./A photo of Les Francs-juges
+722,This person plays the,Elvis Presley,This person,./A photo of Elvis Presley
+723,This show originally aired on the,Museum Secrets,This show,./A photo of Museum Secrets
+724,"This person plays in the position of a forward, but they are also a",Dany N'Guessan,This person,./A photo of Dany N'Guessan
+725,This processor is developed by,Pentium 4,This processor,./A photo of Pentium 4
+726,This person's native language is,Laurent Lafitte,This person's,./A photo of Laurent Lafitte
+727,This person is known for performing the first ever performance of the,Peter Josef von Lindpaintner,This person,./A photo of Peter Josef von Lindpaintner
+728,This car model is developed by,Lexus ES,This car,./A photo of Lexus ES
+729,This national park is located in,Rocky Mountain National Park,This national,./A photo of Rocky Mountain National Park
+730,This historical state belongs to the continent of,United Kingdom of the Netherlands,This historical,./A photo of United Kingdom of the Netherlands
+731,This city is located in the country of,Higashikagawa,This city,./A photo of Higashikagawa
+732,The capital of this country is,Ireland,this country,./A photo of Ireland
+733,This person is employed by,Angela Ahrendts,This person,./A photo of Angela Ahrendts
+734,This special debuted on,A Charlie Brown Christmas,This special,./A photo of A Charlie Brown Christmas
+735,This event premieres on the,Eurovision Song Contest 1960,This event,./A photo of Eurovision Song Contest 1960
+736,This music format is developed by,Super Audio CD,This music,./A photo of Super Audio CD
+737,This place was named for the,Delmarva Peninsula,This place,./A photo of Delmarva Peninsula
+738,This person was born in,Hiroshi Tsuchida,This person,./A photo of Hiroshi Tsuchida
+739,This person died in the city of,Michel Bernstein,This person,./A photo of Michel Bernstein
+740,"This person, who has a citizenship of",Jan Machulski,"This person,",./A photo of Jan Machulski
+741,This person plays in the position of a defensive,Mark Walters,This person,./A photo of Mark Walters
+742,This wrestler is employed by,Triple H,This wrestler,./A photo of Triple H
+743,This musician plays the,Howlin' Wolf,This musician,./A photo of Howlin' Wolf
+744,This show premieres on,The Ed Sullivan Show,This show,./A photo of The Ed Sullivan Show
+745,The headquarters of this organization are in,David Suzuki Foundation,this organization,./A photo of David Suzuki Foundation
+746,The original language of this novel is,The Three Musketeers,this novel,./A photo of The Three Musketeers
+747,This person worked in the city of,"Sir James Whitehead, 1st Baronet",This person,"./A photo of Sir James Whitehead, 1st Baronet"
+748,"In this country, the language spoken is",Guyana,"this country,",./A photo of Guyana
+749,"This person, who has a citizenship of",William McGillivray,"This person,",./A photo of William McGillivray
+750,This glacier belongs to the continent of,Russell East Glacier,This glacier,./A photo of Russell East Glacier
+751,This university can be found in the heart of the city of,Fryderyk Chopin University of Music,This university,./A photo of Fryderyk Chopin University of Music
+752,"This series, that originated in",Orphan Black,"This series,",./A photo of Orphan Black
+753,This show's original language is,The Voice Israel,This show's,./A photo of The Voice Israel
+754,This company was founded in 1947 and is headquartered in,Samsung Electronics,This company,./A photo of Samsung Electronics
+755,This highway is popular in the country of,Bundesautobahn 9,This highway,./A photo of Bundesautobahn 9
+756,The native language of this person is,Alain Marleix,this person,./A photo of Alain Marleix
+757,The capital of this state is,Maharashtra,this state,./A photo of Maharashtra
+758,The native language of this person is,Nicolaas Pierson,this person,./A photo of Nicolaas Pierson
+759,This mobile operating system is developed by,Windows Phone 8.1,This mobile,./A photo of Windows Phone 8.1
+760,This company is a joint venture between,United Launch Alliance,This company,./A photo of United Launch Alliance
+761,This person held the position of the first,Claude de Longwy de Givry,This person,./A photo of Claude de Longwy de Givry
+762,This person passed away in the city of,Alexander Afanasyev,This person,./A photo of Alexander Afanasyev
+763,This person died in the city of,Gilles Marie Oppenord,This person,./A photo of Gilles Marie Oppenord
+764,This person was born in,Cosimo Fancelli,This person,./A photo of Cosimo Fancelli
+765,"This record label is known for performing a wide variety of music, from rock to",Postcards Records,This record,./A photo of Postcards Records
+766,This person is employed by the,Shane McMahon,This person,./A photo of Shane McMahon
+767,This accessory is developed by,Wii MotionPlus,This accessory,./A photo of Wii MotionPlus
+768,The genre played by this series is a mix of,Riverworld,this series,./A photo of Riverworld
+769,"This series, that originated in",No Game No Life,"This series,",./A photo of No Game No Life
+770,This organization was formed in 1999 by a group of,Sound Transit,This organization,./A photo of Sound Transit
+771,This player plays in the position of a,Florent Cuvelier,This player,./A photo of Florent Cuvelier
+772,This platform is developed by,Android TV,This platform,./A photo of Android TV
+773,This person's domain of activity is the world of the,Jon Postel,This person's,./A photo of Jon Postel
+774,This referendum is located in the northeastern region of,Catalan self-determination referendum,This referendum,./A photo of Catalan self-determination referendum
+775,"This music group is known for performing a variety of styles of music, including",Rosenberg Trio,This music,./A photo of Rosenberg Trio
+776,This person worked in the city of,Werner von Blomberg,This person,./A photo of Werner von Blomberg
+777,This commentator is employed by the,Jonathan Pearce,This commentator,./A photo of Jonathan Pearce
+778,This person was born in,Georges Rouault,This person,./A photo of Georges Rouault
+779,"This collection of fables, that originated in",La Fontaine's Fables,This collection,./A photo of La Fontaine's Fables
+780,This person's native language is,Yuliya Snigir,This person's,./A photo of Yuliya Snigir
+781,This person is employed by the,Peter Fincham,This person,./A photo of Peter Fincham
+782,This player professionally plays the sport of,Dominik Hašek,This player,./A photo of Dominik Hašek
+783,The capital of this state is,Saxony,this state,./A photo of Saxony
+784,This player professionally plays the sport of ice,Ilya Kovalchuk,This player,./A photo of Ilya Kovalchuk
+785,This musician performs on the,George Gershwin,This musician,./A photo of George Gershwin
+786,This person's domain of work is the study of the,Giorgi Melikishvili,This person's,./A photo of Giorgi Melikishvili
+787,This composer performs on the,Johannes Brahms,This composer,./A photo of Johannes Brahms
+788,This place belongs to the continent of,Grossman Nunataks,This place,./A photo of Grossman Nunataks
+789,This book is about the,Il Postino: The Postman,This book,./A photo of Il Postino: The Postman
+790,This artist's native language is,Giunta Pisano,This artist's,./A photo of Giunta Pisano
+791,The headquarters of this institute are in,Lebedev Physical Institute,this institute,./A photo of Lebedev Physical Institute
+792,"This person, who has a citizenship of",Linor Abargil,"This person,",./A photo of Linor Abargil
+793,This monarch passed away in,Manuel I of Portugal,This monarch,./A photo of Manuel I of Portugal
+794,This person plays in the position of a defensive,Ludovic Sylvestre,This person,./A photo of Ludovic Sylvestre
+795,This musical duo formed in the year of,Brookes Brothers,This musical,./A photo of Brookes Brothers
+796,This team belongs to the organization of the,Brazil national football team,This team,./A photo of Brazil national football team
+797,This company was formed in 1882 and is headquartered in,Salvatore Ferragamo Italia S.p.A.,This company,./A photo of Salvatore Ferragamo Italia S.p.A.
+798,"This person, whose position is that of a ""superior""",Leo XIII,"This person,",./A photo of Leo XIII
+799,This newspaper is written in,El Diario de Hoy,This newspaper,./A photo of El Diario de Hoy
+800,This person is a citizen of the country of,Chuwit Kamolvisit,This person,./A photo of Chuwit Kamolvisit
+801,This software is developed by,Windows Live Mesh,This software,./A photo of Windows Live Mesh
+802,This newspaper was written in the late 16th century by the,Il Secolo XIX,This newspaper,./A photo of Il Secolo XIX
+803,This person passed away in a hospital in the city of,Buenaventura Durruti,This person,./A photo of Buenaventura Durruti
+804,This gaming console was created by,Xbox,This gaming,./A photo of Xbox
+805,This person works in the field of,John Calvin,This person,./A photo of John Calvin
+806,The native language of this person is,Lee Chang-dong,this person,./A photo of Lee Chang-dong
+807,The capital of this country is,Norway,this country,./A photo of Norway
+808,This person was created in the country of his birth.,Chakrapani,This person,./A photo of Chakrapani
+809,This place belongs to the continent of,Brown Peninsula,This place,./A photo of Brown Peninsula
+810,This person is employed by,Satya Nadella,This person,./A photo of Satya Nadella
+811,The native language of this person is,Henriette-Julie de Murat,this person,./A photo of Henriette-Julie de Murat
+812,This person was born in the city of,Jacques-Jean Barre,This person,./A photo of Jacques-Jean Barre
+813,This company is owned by,DeepMind,This company,./A photo of DeepMind
+814,This band was created in the country of its birth.,Young Canadians,This band,./A photo of Young Canadians
+815,This show premieres on,Criminal Minds,This show,./A photo of Criminal Minds
+816,This person is affiliated with the religion of,Abdalqadir as-Sufi,This person,./A photo of Abdalqadir as-Sufi
+817,"This person, whose position is that of a ""superior""",Clement VIII,"This person,",./A photo of Clement VIII
+818,This scientist works in the area of,Galileo Galilei,This scientist,./A photo of Galileo Galilei
+819,This application was created by the same company that created the original,Newsstand,This application,./A photo of Newsstand
+820,"In this country, the language spoken is a mixture of",Papua New Guinea,"this country,",./A photo of Papua New Guinea
+821,The headquarters of this organization are in,Co-operative Commonwealth Federation (Ontario Section),this organization,./A photo of Co-operative Commonwealth Federation (Ontario Section)
+822,"This person, who has a citizenship of",Sola Aoi,"This person,",./A photo of Sola Aoi
+823,This character premieres on,Sherlock Holmes,This character,./A photo of Sherlock Holmes
+824,This product is owned by,Chromebook,This product,./A photo of Chromebook
+825,This mountain is located in the continent of,Mount Foster,This mountain,./A photo of Mount Foster
+826,This person is employed by the,Philip Mould,This person,./A photo of Philip Mould
+827,This company formed in 1978 and is headquartered in,The Home Depot,This company,./A photo of The Home Depot
+828,This district is located in the country of,Now Kandeh District,This district,./A photo of Now Kandeh District
+829,"This artist is known for performing in a variety of genres, from rock to",Chris McGregor,This artist,./A photo of Chris McGregor
+830,This series debuted on,Freaks and Geeks,This series,./A photo of Freaks and Geeks
+831,This person's domain of activity is the field of,Gerolamo Cardano,This person's,./A photo of Gerolamo Cardano
+832,This drink was created in the country of its origin.,Limoncello,This drink,./A photo of Limoncello
+833,This territory belongs to the continent of,Australian Antarctic Territory,This territory,./A photo of Australian Antarctic Territory
+834,This person died in the city of,Marcellin Berthelot,This person,./A photo of Marcellin Berthelot
+835,The location of this tower is in the heart of,Lotte World Tower,this tower,./A photo of Lotte World Tower
+836,This person was born in the city of,Iiro Rantala,This person,./A photo of Iiro Rantala
+837,This palace is located in the heart of the city of,Charlottenborg Palace,This palace,./A photo of Charlottenborg Palace
+838,This city belongs to the continent of,Paris,This city,./A photo of Paris
+839,This person is employed by the,Jon Ronson,This person,./A photo of Jon Ronson
+840,This player professionally plays the sport of,Evgeni Malkin,This player,./A photo of Evgeni Malkin
+841,This company is located in the country of,JVC Kenwood Victor Entertainment,This company,./A photo of JVC Kenwood Victor Entertainment
+842,This person died in the city of,Charlie Conacher,This person,./A photo of Charlie Conacher
+843,This person's domain of work is the study of the history of the,David Crystal,This person's,./A photo of David Crystal
+844,This device is developed by,Chromecast,This device,./A photo of Chromecast
+845,This work was created in the country of,Dronningens vagtmester,This work,./A photo of Dronningens vagtmester
+846,The native language of this person is,Gabrielle Fontan,this person,./A photo of Gabrielle Fontan
+847,This musician passed away in,Sviatoslav Knushevitsky,This musician,./A photo of Sviatoslav Knushevitsky
+848,"In this town, the language spoken is",Kauniainen,"this town,",./A photo of Kauniainen
+849,This glacier belongs to the continent of,Pitkevitch Glacier,This glacier,./A photo of Pitkevitch Glacier
+850,This team is affiliated with the,Italy national football team,This team,./A photo of Italy national football team
+851,This person was born in the city of,Hajime Mizoguchi,This person,./A photo of Hajime Mizoguchi
+852,This inlet is located in the country of,Jervis Inlet,This inlet,./A photo of Jervis Inlet
+853,This person is employed by,Stephen Elop,This person,./A photo of Stephen Elop
+854,This place belongs to the continent of,Melilla,This place,./A photo of Melilla
+855,This person was born in,Richard Rawlinson,This person,./A photo of Richard Rawlinson
+856,This person follows the religion of,Pervez Musharraf,This person,./A photo of Pervez Musharraf
+857,This place is located in the country of,"North Middlesex, Ontario",This place,"./A photo of North Middlesex, Ontario"
+858,This place is located in the,Vale of Glamorgan,This place,./A photo of Vale of Glamorgan
+859,This person worked in the city of,Jean-Jacques Grunenwald,This person,./A photo of Jean-Jacques Grunenwald
+860,The headquarter of this airline company is in,United Continental Holdings,this airline,./A photo of United Continental Holdings
+861,The capital of this historical state is,Weimar Republic,this historical,./A photo of Weimar Republic
+862,This person holds the position of the first,Pelagius II,This person,./A photo of Pelagius II
+863,This journalist is employed by the,Simon McCoy,This journalist,./A photo of Simon McCoy
+864,The headquarter of this company is in,RioCan Real Estate Investment Trust,this company,./A photo of RioCan Real Estate Investment Trust
+865,This show premieres on,Wednesday Night Baseball,This show,./A photo of Wednesday Night Baseball
+866,This country belongs to the continent of,Thailand,This country,./A photo of Thailand
+867,This person's profession is an,Jung Ryeo-won,This person's,./A photo of Jung Ryeo-won
+868,This philosopher died in the city of,Montesquieu,This philosopher,./A photo of Montesquieu
+869,This publication is written in the,France Dimanche,This publication,./A photo of France Dimanche
+870,The capital of this country is,Ukraine,this country,./A photo of Ukraine
+871,This person is affiliated with the religion of,Babur,This person,./A photo of Babur
+872,The headquarter of this military branch is in,Soviet Air Defence Forces,this military,./A photo of Soviet Air Defence Forces
+873,"In this region, the language spoken is",State of Brazil,"this region,",./A photo of State of Brazil
+874,This place is located in the country of,Panagarh,This place,./A photo of Panagarh
+875,This place is named for the,Pointe Coupee Parish,This place,./A photo of Pointe Coupee Parish
+876,"This album is known for performing a variety of styles of music, including",Soultrane,This album,./A photo of Soultrane
+877,This processor is developed by,Xeon,This processor,./A photo of Xeon
+878,This person passed away in the city of,Giacomo Barozzi da Vignola,This person,./A photo of Giacomo Barozzi da Vignola
+879,This hospital is located in the country of,"Medical College and Hospital, Kolkata",This hospital,"./A photo of Medical College and Hospital, Kolkata"
+880,"This brand, from the same company that makes the",Nismo,"This brand,",./A photo of Nismo
+881,This person has a citizenship of the country of,Maurice Bellemare,This person,./A photo of Maurice Bellemare
+882,This person worked in the office of the mayor of the city of,Newton Moore,This person,./A photo of Newton Moore
+883,This character is affiliated with the,Namor,This character,./A photo of Namor
+884,"This person, who has a citizenship of",Caterina Davinio,"This person,",./A photo of Caterina Davinio
+885,This person plays the,Antonio Vivaldi,This person,./A photo of Antonio Vivaldi
+886,This person is a citizen of,Sakichi Toyoda,This person,./A photo of Sakichi Toyoda
+887,"This person, of",Adam Schefter,"This person,",./A photo of Adam Schefter
+888,This newspaper is written in,Le Petit Parisien,This newspaper,./A photo of Le Petit Parisien
+889,This place is a twin city of,Nicosia,This place,./A photo of Nicosia
+890,"In this person, the native language is",Mathieu de Montmorency,"this person,",./A photo of Mathieu de Montmorency
+891,This person's native language is,Pierre Daniel Huet,This person's,./A photo of Pierre Daniel Huet
+892,This person's native language is,Pierre Lescure,This person's,./A photo of Pierre Lescure
+893,This person is employed by,Dan Le Batard,This person,./A photo of Dan Le Batard
+894,The original language of this film is a,Neethaane En Ponvasantham,this film,./A photo of Neethaane En Ponvasantham
+895,"This car model, produced by",Alfa Romeo 155,This car model,./A photo of Alfa Romeo 155
+896,The headquarters of this political party are in,Polish Socialist Party,this political,./A photo of Polish Socialist Party
+897,This person professionally plays the sport of,Ryan Smyth,This person,./A photo of Ryan Smyth
+898,"This person, who plays the title role in the",Andrew Lloyd Webber,"This person,",./A photo of Andrew Lloyd Webber
+899,This artist is native to the city of,Killer Mike,This artist,./A photo of Killer Mike
+900,This organization is located in,CERN,This organization,./A photo of CERN
+901,This person is native to,Kang Ji-hwan,This person,./A photo of Kang Ji-hwan
+902,"This highway, by the way, is the most popular route in",Bundesautobahn 6,"This highway,",./A photo of Bundesautobahn 6
+903,The language used by this person is a mixture of,Musa Manarov,this person,./A photo of Musa Manarov
+904,"This comedy duo was created in the country of their birth,",Ylvis,This comedy,./A photo of Ylvis
+905,This person worked in the city of,Friedrich Goldmann,This person,./A photo of Friedrich Goldmann
+906,This pope died in the city of,Pius III,This pope,./A photo of Pius III
+907,This device is developed by,iPhone 1,This device,./A photo of iPhone 1
+908,This show premieres on,Mike & Molly,This show,./A photo of Mike & Molly
+909,This show debuted on the,The Thin Blue Line,This show,./A photo of The Thin Blue Line
+910,This person is affiliated with the religion of,Mir Damad,This person,./A photo of Mir Damad
+911,"In this country, the language spoken is a mix of",Palau,"this country,",./A photo of Palau
+912,This company formed in 1886 and is headquartered in,The Coca-Cola Company,This company,./A photo of The Coca-Cola Company
+913,The capital of this historical territory is,Khedivate of Egypt,this historical,./A photo of Khedivate of Egypt
+914,This person works in the area of cognitive,Amos Tversky,This person,./A photo of Amos Tversky
+915,"In this place, the language spoken is",Canton of Fribourg,"this place,",./A photo of Canton of Fribourg
+916,This person's domain of work is the,Edward Gibbon,This person's,./A photo of Edward Gibbon
+917,This person died in the city of,Charles Nodier,This person,./A photo of Charles Nodier
+918,The owner of this email service is,Outlook.com,this email,./A photo of Outlook.com
+919,The original language of this series is,Der kleine Vampir,this series,./A photo of Der kleine Vampir
+920,The official language of this country is,Kenya,this country,./A photo of Kenya
+921,This series was created in the country of,Inuyasha,This series,./A photo of Inuyasha
+922,This person is affiliated with the religion of,Yusuf al-Qaradawi,This person,./A photo of Yusuf al-Qaradawi
+923,This album's language was used by the,Ni es lo mismo ni es igual,This album's,./A photo of Ni es lo mismo ni es igual
+924,This version of the software is developed by,Windows Internet Explorer 8,This version,./A photo of Windows Internet Explorer 8
+925,This film was created in the country of,Sangamam,This film,./A photo of Sangamam
+926,This person is a citizen of,Eiko Shimamiya,This person,./A photo of Eiko Shimamiya
+927,This musician is known for performing the first ever live performance of the,Krzysztof Meyer,This musician,./A photo of Krzysztof Meyer
+928,This county can be found in the southeast corner of,Kalamazoo County,This county,./A photo of Kalamazoo County
+929,This technology is a product developed by,Active Server Pages,This technology,./A photo of Active Server Pages
+930,This mountain is located in the continent of,Mount Discovery,This mountain,./A photo of Mount Discovery
+931,This organization is owned by the,Florida Championship Wrestling,This organization,./A photo of Florida Championship Wrestling
+932,The capital of this empire is,Latin Empire,this empire,./A photo of Latin Empire
+933,This person professionally plays the sport of,Herculez Gomez,This person,./A photo of Herculez Gomez
+934,This show premieres on,College Football Live,This show,./A photo of College Football Live
+935,This person writes in the,Jean-Pierre Petit,This person,./A photo of Jean-Pierre Petit
+936,This person worked in the city of,Jules Moch,This person,./A photo of Jules Moch
+937,This person uses a language that is a clear reference to the,"Pedro Caro, 3rd Marquis of la Romana",This person,"./A photo of Pedro Caro, 3rd Marquis of la Romana"
+938,This person's native language is,Luc Besson,This person's,./A photo of Luc Besson
+939,This newspaper is written in,La Voz del Interior,This newspaper,./A photo of La Voz del Interior
+940,This show premieres on,NBA Shootaround,This show,./A photo of NBA Shootaround
+941,This company was formed in 1975 and is headquartered in,Nikon,This company,./A photo of Nikon
+942,This service is owned by,Flickr,This service,./A photo of Flickr
+943,The headquarter of this company is in the heart of downtown,BC Hydro,this company,./A photo of BC Hydro
+944,"This person, whose position is that of a ""superior""",Gregory XIII,"This person,",./A photo of Gregory XIII
+945,This laptop is developed by,Chromebook Pixel,This laptop,./A photo of Chromebook Pixel
+946,This musician plays the instrument of the,Giovanni Battista Viotti,This musician,./A photo of Giovanni Battista Viotti
+947,This service is owned by,Bing Videos,This service,./A photo of Bing Videos
+948,This person speaks to the media after the,Willem Wilmink,This person,./A photo of Willem Wilmink
+949,This person's native language is,Corinne Calvet,This person's,./A photo of Corinne Calvet
+950,This software is a product developed by,ActiveSync,This software,./A photo of ActiveSync
+951,The capital of this country is,Denmark,this country,./A photo of Denmark
+952,This person is employed by,Steve Jobs,This person,./A photo of Steve Jobs
+953,This lake belongs to the continent of,Lake Vostok,This lake,./A photo of Lake Vostok
+954,The genre played by this band is a blend of,Eureka Brass Band,this band,./A photo of Eureka Brass Band
+955,This laptop is developed by,MacBook Air,This laptop,./A photo of MacBook Air
+956,This show premieres on,Late Night with Jimmy Fallon,This show,./A photo of Late Night with Jimmy Fallon
+957,This person worked in the city of,Gro Harlem Brundtland,This person,./A photo of Gro Harlem Brundtland
+958,This musician performs on the,Leonard Bernstein,This musician,./A photo of Leonard Bernstein
+959,This glacier belongs to the continent of,Northwind Glacier,This glacier,./A photo of Northwind Glacier
+960,This system is developed by,CarPlay,This system,./A photo of CarPlay
+961,This person's native language is,Guy Drut,This person's,./A photo of Guy Drut
+962,This show premieres on,The Lead with Jake Tapper,This show,./A photo of The Lead with Jake Tapper
+963,The original language of this show is a mixture of,Uutisvuoto,this show,./A photo of Uutisvuoto
+964,This ruler follows the religion of,Akbar,This ruler,./A photo of Akbar
+965,This person's native language is,Aleksey Khomyakov,This person's,./A photo of Aleksey Khomyakov
+966,This person passed away in,Pierre Contant d'Ivry,This person,./A photo of Pierre Contant d'Ivry
+967,This person speaks to the media after the first round of the,Alain Touraine,This person,./A photo of Alain Touraine
+968,"This person, who has a citizenship of",Ritt Bjerregaard,"This person,",./A photo of Ritt Bjerregaard
+969,The headquarter of this association is in,Chinese Skating Association,this association,./A photo of Chinese Skating Association
+970,This place belongs to the continent of,Wallonia,This place,./A photo of Wallonia
+971,This team is a part of the,United States men's national soccer team,This team,./A photo of United States men's national soccer team
+972,This person professionally plays the sport of,José Canseco,This person,./A photo of José Canseco
+973,This text originates in the language of,Sadratnamala,This text,./A photo of Sadratnamala
+974,This player professionally plays the sport of,Stephen Curry,This player,./A photo of Stephen Curry
+975,This video game is developed by,Final Fantasy III,This video,./A photo of Final Fantasy III
+976,This university is located in the country of,Brandon University,This university,./A photo of Brandon University
+977,This newspaper is written in the,Le Matin de Paris,This newspaper,./A photo of Le Matin de Paris
+978,"This software, created by the same people who created the",iTunes Remote,"This software,",./A photo of iTunes Remote
+979,"This person, who has a citizenship of the country of",Gianni Lancia,"This person,",./A photo of Gianni Lancia
+980,This person works for the,Mishal Husain,This person,./A photo of Mishal Husain
+981,This artist took up work in the,Henri de Toulouse-Lautrec,This artist,./A photo of Henri de Toulouse-Lautrec
+982,This glacier belongs to the continent of,Kaliakra Glacier,This glacier,./A photo of Kaliakra Glacier
+983,This player plays in the position of a,D'Qwell Jackson,This player,./A photo of D'Qwell Jackson
+984,The capital of this caliphate is the city of,Fatimid caliphate,this caliphate,./A photo of Fatimid caliphate
+985,The language used by this person is a good example of the way in which the,"Claude Henri de Rouvroy, comte de Saint-Simon",this person,"./A photo of Claude Henri de Rouvroy, comte de Saint-Simon"
+986,The headquarter of this political party is in,Italian Social Movement,this political,./A photo of Italian Social Movement
+987,This person is a citizen of,Yuki Uchida,This person,./A photo of Yuki Uchida
+988,This person is a citizen of,Dawid Janowski,This person,./A photo of Dawid Janowski
+989,This person holds the title of the first,Basil of Caesarea,This person,./A photo of Basil of Caesarea
+990,"This composer, performing on the",Edvard Grieg,"This composer,",./A photo of Edvard Grieg
+991,The native language of this person is,Paul Klebnikov,this person,./A photo of Paul Klebnikov
+992,This company is owned by,Mojang,This company,./A photo of Mojang
+993,This person died in the city of,Giovanni di Bicci de' Medici,This person,./A photo of Giovanni di Bicci de' Medici
+994,The capital of this kingdom is,Kingdom of Bavaria,this kingdom,./A photo of Kingdom of Bavaria
+995,This person died in the city of,Jean-Joseph de Mondonville,This person,./A photo of Jean-Joseph de Mondonville
+996,This person was born in the city of,Daniele Franceschini,This person,./A photo of Daniele Franceschini
+997,"This record label is known for performing a wide variety of genres, from rock to",Progressive Records,This record,./A photo of Progressive Records
+998,The location of this tennis tournament is in the heart of,2011 Australian Open,this tennis,./A photo of 2011 Australian Open
+999,This person worked in the city of,"Nancy Astor, Viscountess Astor",This person,"./A photo of Nancy Astor, Viscountess Astor"
+1000,This building is owned by the,Broadcasting House,This building,./A photo of Broadcasting House
+1001,The capital of this former state is,Kingdom of Great Britain,this former,./A photo of Kingdom of Great Britain
+1002,The original language of this book is a mixture of,Celia en el colegio,this book,./A photo of Celia en el colegio
+1003,This athlete plays in the position of,Jason Campbell,This athlete,./A photo of Jason Campbell
+1004,"This artist, playing the electric",Jimi Hendrix,"This artist,",./A photo of Jimi Hendrix
+1005,This event occurred in the city of,1993 Bombay bombings,This event,./A photo of 1993 Bombay bombings
+1006,This building is located in the country of,Taksim Military Barracks,This building,./A photo of Taksim Military Barracks
+1007,This person works in the area of,Leonard Peikoff,This person,./A photo of Leonard Peikoff
+1008,"This person, who works as a",Halle Berry,"This person,",./A photo of Halle Berry
+1009,The native language of this person is,Claude Bernard,this person,./A photo of Claude Bernard
+1010,"This car model, developed by",Datsun Sports,This car,./A photo of Datsun Sports
+1011,This economist's domain of work is the,Ludwig von Mises,This economist's,./A photo of Ludwig von Mises
+1012,This person died in the city of,Lorenzo Perosi,This person,./A photo of Lorenzo Perosi
+1013,This person's domain of work is the study of the,Granius Licinianus,This person's,./A photo of Granius Licinianus
+1014,This show debuted on,The Jack Benny Program,This show,./A photo of The Jack Benny Program
+1015,This car model is developed by,Acura RL,This car,./A photo of Acura RL
+1016,This person took up work in the,"George Cadogan, 5th Earl Cadogan",This person,"./A photo of George Cadogan, 5th Earl Cadogan"
+1017,This person worked in the city of,Renata Polverini,This person,./A photo of Renata Polverini
+1018,"This person, who has a citizenship of",Daniel Victor,"This person,",./A photo of Daniel Victor
+1019,This political party is located in the country of,Alberta Alliance Party,This political,./A photo of Alberta Alliance Party
+1020,This company is headquartered in,Melodiya,This company,./A photo of Melodiya
+1021,"This person, who works as a",Sunny Hundal,"This person,",./A photo of Sunny Hundal
+1022,This musician's domain of work is the,John Coltrane,This musician's,./A photo of John Coltrane
+1023,This educational institution is affiliated with the religion of,Reconstructionist Rabbinical College,This educational institution,./A photo of Reconstructionist Rabbinical College
+1024,This athlete plays in the position of,Pekka Rinne,This athlete,./A photo of Pekka Rinne
+1025,This street was created in the country of,Avenue Montaigne,This street,./A photo of Avenue Montaigne
+1026,"In this place, the language spoken is a dialect of",Pomarkku,"this place,",./A photo of Pomarkku
+1027,This show premieres on,The New Andy Griffith Show,This show,./A photo of The New Andy Griffith Show
+1028,This person works in the field of electromagnetism and is a professor of,Michael Faraday,This person,./A photo of Michael Faraday
+1029,This person worked in the city of,Marie François Oscar Bardy de Fourtou,This person,./A photo of Marie François Oscar Bardy de Fourtou
+1030,The public transport in this city is located in the country of,public transport in Istanbul,this city,./A photo of public transport in Istanbul
+1031,This person is affiliated with the religion of,Muhammad Asad,This person,./A photo of Muhammad Asad
+1032,This show premieres on,The Dick Van Dyke Show,This show,./A photo of The Dick Van Dyke Show
+1033,This person's native language is,Michel Modo,This person's,./A photo of Michel Modo
+1034,This person is a citizen of,Marcin Libicki,This person,./A photo of Marcin Libicki
+1035,The capital of this state is,Massachusetts,this state,./A photo of Massachusetts
+1036,This car model is developed by,Acura EL,This car,./A photo of Acura EL
+1037,"This person holds the title of ""the most powerful",Paul IV,This person,./A photo of Paul IV
+1038,This person's native language is,Irina Khakamada,This person's,./A photo of Irina Khakamada
+1039,This person works for,Nathan Myhrvold,This person,./A photo of Nathan Myhrvold
+1040,"In this state, the language spoken is a mixture of",Indiana,"this state,",./A photo of Indiana
+1041,This team is a part of the,Mexico national football team,This team,./A photo of Mexico national football team
+1042,This society's expertise is in the areas of,Edinburgh Mathematical Society,This society's,./A photo of Edinburgh Mathematical Society
+1043,This show premieres on,The Amazing Race,This show,./A photo of The Amazing Race
+1044,This person was born in the city of,Semyon Vorontsov,This person,./A photo of Semyon Vorontsov
+1045,"This musician, playing the",Thelonious Monk,"This musician,",./A photo of Thelonious Monk
+1046,This person died at the age of 85 in,Giuseppe Baini,This person,./A photo of Giuseppe Baini
+1047,"This company, that was formed in 1894, and the",East Japan Railway Company,"This company,",./A photo of East Japan Railway Company
+1048,This region is located in the heart of,Leinster,This region,./A photo of Leinster
+1049,This book was written in the early 20th century by a,Le Silence de la mer,This book,./A photo of Le Silence de la mer
+1050,This player professionally played the sport of,Pat Tillman,This player,./A photo of Pat Tillman
+1051,This character is affiliated with the,Thor,This character,./A photo of Thor
+1052,The original language of this book was written in,Yalkut Yosef,this book,./A photo of Yalkut Yosef
+1053,The headquarter of this entertainment company is in,WWE,this entertainment,./A photo of WWE
+1054,This athlete is a citizen of,Yohann Diniz,This athlete,./A photo of Yohann Diniz
+1055,This award is located in the country of,Sydney Peace Prize,This award,./A photo of Sydney Peace Prize
+1056,The headquarters of this organization are in the country of,Canadian Cancer Society,this organization,./A photo of Canadian Cancer Society
+1057,This person is a native speaker of,Klaas Schilder,This person,./A photo of Klaas Schilder
+1058,"In this country, the language spoken is",Ireland,"this country,",./A photo of Ireland
+1059,This team is a part of the,Canada men's national soccer team,This team,./A photo of Canada men's national soccer team
+1060,This event is in full swing in,Chaos Communication Congress,This event,./A photo of Chaos Communication Congress
+1061,The owner of this company is,Epiphone,this company,./A photo of Epiphone
+1062,This river belongs to the continent of,Gambia River,This river,./A photo of Gambia River
+1063,This person was born in the city of,Chris Stringer,This person,./A photo of Chris Stringer
+1064,This software was created by the community and is not supported by,macOS Server,This software,./A photo of macOS Server
+1065,This newspaper is written in,L'Aurore,This newspaper,./A photo of L'Aurore
+1066,"In this place, the language spoken is a mixture of",Nyon,"this place,",./A photo of Nyon
+1067,The language used by this person is a bit of a departure from the usual.,Enzo Cannavale,this person,./A photo of Enzo Cannavale
+1068,This journalist is employed by the,Andrew Gilligan,This journalist,./A photo of Andrew Gilligan
+1069,The original language of this opera was written in the 14th century by the,Il giuramento,this opera,./A photo of Il giuramento
+1070,"This person, who has the position of a",Babylas of Antioch,"This person,",./A photo of Babylas of Antioch
+1071,This car model is developed by,Acura ILX,This car,./A photo of Acura ILX
+1072,This person's expertise is in the field of,Galen,This person's,./A photo of Galen
+1073,This person is employed by the,David Dimbleby,This person,./A photo of David Dimbleby
+1074,This player plays in the position of a,George Mihai Florescu,This player,./A photo of George Mihai Florescu
+1075,This airline is located in the country of,TUIfly Nordic,This airline,./A photo of TUIfly Nordic
+1076,This series was created in the country of his birth.,Paanch,This series,./A photo of Paanch
+1077,This place can be found in the south-west of,North Berwick,This place,./A photo of North Berwick
+1078,The native language of this person is,Anne-Marie Idrac,this person,./A photo of Anne-Marie Idrac
+1079,This person holds the position of the first,Saint Valentine,This person,./A photo of Saint Valentine
+1080,This person does not use the same language as the,Guido Pieters,This person,./A photo of Guido Pieters
+1081,This place is located in the country of,Valdemarsvik,This place,./A photo of Valdemarsvik
+1082,This vehicle is developed by,Acura RDX,This vehicle,./A photo of Acura RDX
+1083,The headquarters of this company are in,Pennzoil,this company,./A photo of Pennzoil
+1084,This operating system is developed by,Windows Me,This operating,./A photo of Windows Me
+1085,This player plays in the position of the left-handed.,Masaichi Kaneda,This player,./A photo of Masaichi Kaneda
+1086,This person died in the city of,Rutland Barrington,This person,./A photo of Rutland Barrington
+1087,This person is affiliated with the religion of,Muhammad al-Bukhari,This person,./A photo of Muhammad al-Bukhari
+1088,This operating system is developed by,OS X Yosemite,This operating,./A photo of OS X Yosemite
+1089,The headquarters of this company are in the heart of downtown.,Faygo,this company,./A photo of Faygo
+1090,This person was born in the city of,Adam Kendon,This person,./A photo of Adam Kendon
+1091,"This person, who is employed by",Craig Federighi,"This person,",./A photo of Craig Federighi
+1092,This person's profession is an,Ryu Hyeon-kyeong,This person's,./A photo of Ryu Hyeon-kyeong
+1093,This person worked in the city of,Gianfranco Fini,This person,./A photo of Gianfranco Fini
+1094,This film was created in the country of his birth.,Lage Raho Munna Bhai,This film,./A photo of Lage Raho Munna Bhai
+1095,The owner of this service is,Bing Maps,this service,./A photo of Bing Maps
+1096,The owner of this network is,Showtime Networks,this network,./A photo of Showtime Networks
+1097,This composer was born in the city of,Mehdi Hosseini,This composer,./A photo of Mehdi Hosseini
+1098,The capital of this state is,Hawaii,this state,./A photo of Hawaii
+1099,This company is owned by,Yammer,This company,./A photo of Yammer
+1100,"In this place, located in the south of",Andheri,"this place,",./A photo of Andheri
+1101,This person worked in the city of,Yitzhak Ben-Zvi,This person,./A photo of Yitzhak Ben-Zvi
+1102,This person has the position of the first,William Bernard Ullathorne,This person,./A photo of William Bernard Ullathorne
+1103,The headquarter of this company is in,EMI,this company,./A photo of EMI
+1104,This person worked in the city of,George Newnes,This person,./A photo of George Newnes
+1105,This person's profession is an,Choi Myeong-gil,This person's,./A photo of Choi Myeong-gil
+1106,This player plays in the position of,Drew Brees,This player,./A photo of Drew Brees
+1107,This handheld console is developed by,Game & Watch,This handheld,./A photo of Game & Watch
+1108,This film was created in the country of,Nonchan Noriben,This film,./A photo of Nonchan Noriben
+1109,This museum is located in the city of,Bavarian National Museum,This museum,./A photo of Bavarian National Museum
+1110,This highway is known to be the most popular route in,Bundesautobahn 4,This highway,./A photo of Bundesautobahn 4
+1111,"This artist, who has a citizenship of",Masaccio,"This artist,",./A photo of Masaccio
+1112,This album is written in,Mas Canciones,This album,./A photo of Mas Canciones
+1113,This person follows the religion of,Ahmed Zewail,This person,./A photo of Ahmed Zewail
+1114,This character was created in the country of his birth.,Velayudham,This character,./A photo of Velayudham
+1115,This person was born in,Umberto Guidoni,This person,./A photo of Umberto Guidoni
+1116,This highway is the most popular route in,Bundesautobahn 14,This highway,./A photo of Bundesautobahn 14
+1117,This person speaks to the media after his arrest in the region of,Osvaldo Genazzani,This person,./A photo of Osvaldo Genazzani
+1118,This person worked in the city of,Francesco Rutelli,This person,./A photo of Francesco Rutelli
+1119,"This person, who holds the position of the first",Photinus of Sirmium,"This person,",./A photo of Photinus of Sirmium
+1120,The language of this person is a mixture of,Dwynwen,this person,./A photo of Dwynwen
+1121,The capital of this region is the city of,Veneto,this region,./A photo of Veneto
+1122,The headquarters of this publication are in,Mercure de France,this publication,./A photo of Mercure de France
+1123,The capital of this former kingdom is,Kingdom of Iraq,this former,./A photo of Kingdom of Iraq
+1124,"In this city, the language spoken is a mix of",Patna,"this city,",./A photo of Patna
+1125,This company is located in the country of,Bouygues Telecom,This company,./A photo of Bouygues Telecom
+1126,This coach professionally played the sport of,Phil Jackson,This coach,./A photo of Phil Jackson
+1127,This person follows the religion of,Al-Mahdi,This person,./A photo of Al-Mahdi
+1128,"This person, who has the position of a",Eusebius of Vercelli,"This person,",./A photo of Eusebius of Vercelli
+1129,This country belongs to the continent of,Irish Free State,This country,./A photo of Irish Free State
+1130,This person follows the religion of,Sultan Satuq Bughra Khan,This person,./A photo of Sultan Satuq Bughra Khan
+1131,This show was originally aired on,Scooby Doo,This show,./A photo of Scooby Doo
+1132,This player plays in the position of,Yogi Berra,This player,./A photo of Yogi Berra
+1133,"In this place, the language spoken is",Chiasso,"this place,",./A photo of Chiasso
+1134,This stadium is located in the heart of the city of,Panathenaic Stadium,This stadium,./A photo of Panathenaic Stadium
+1135,This organization is a part of the,Italian Football Federation,This organization,./A photo of Italian Football Federation
+1136,This person worked in the city of,"Jennie Lee, Baroness Lee of Asheridge",This person,"./A photo of Jennie Lee, Baroness Lee of Asheridge"
+1137,This car model is developed by,Acura TL,This car,./A photo of Acura TL
+1138,This player professionally plays the sport of,Marco Di Vaio,This player,./A photo of Marco Di Vaio
+1139,"This car, produced by",Alfa Romeo 6C,"This car,",./A photo of Alfa Romeo 6C
+1140,This person holds the position of a,Rupert of Salzburg,This person,./A photo of Rupert of Salzburg
+1141,"This person plays as a striker, but they are also a",Luis del Sol,This person,./A photo of Luis del Sol
+1142,This item was a product of the same era as the first,Books,This item,./A photo of Books
+1143,This athlete professionally plays the sport of,Brett Hull,This athlete,./A photo of Brett Hull
+1144,The location of this university is in the heart of the city of,Concordia University,this university,./A photo of Concordia University
+1145,This series was created in the country of,Saikano,This series,./A photo of Saikano
+1146,The native language of this person is,Louis-Nicolas Davout,this person,./A photo of Louis-Nicolas Davout
+1147,This person's domain of work is the world of,Akira Toriyama,This person's,./A photo of Akira Toriyama
+1148,This player professionally plays the sport of,Boris Diaw,This player,./A photo of Boris Diaw
+1149,The capital of this dynasty was,Qing dynasty,this dynasty,./A photo of Qing dynasty
+1150,This format is a product developed by,WebM,This format,./A photo of WebM
+1151,This politician worked in the city of,David Cameron,This politician,./A photo of David Cameron
+1152,This person is affiliated with the religion of,Muhammad,This person,./A photo of Muhammad
+1153,"This band, that was created in the wake of the year of",Bhayanak Maut,"This band,",./A photo of Bhayanak Maut
+1154,The headquarters of this university are in,University of Washington,this university,./A photo of University of Washington
+1155,This place is located in the southern part of,Lopburi,This place,./A photo of Lopburi
+1156,This place is located in the country of,Honnavar,This place,./A photo of Honnavar
+1157,This show was originally aired on the,The Biskitts,This show,./A photo of The Biskitts
+1158,This college is located in,Patrick Henry College,This college,./A photo of Patrick Henry College
+1159,"This person held the position of a ""superior"" in the context of",Pius VI,This person,./A photo of Pius VI
+1160,This stadium is owned by the city of,Stadio Flaminio,This stadium,./A photo of Stadio Flaminio
+1161,The headquarters of this board are in,Liquor Control Board of Ontario,this board,./A photo of Liquor Control Board of Ontario
+1162,This broadcast premieres on,Sunday Night Baseball,This broadcast,./A photo of Sunday Night Baseball
+1163,This person is originally from,Miyuki Sawashiro,This person,./A photo of Miyuki Sawashiro
+1164,This person died in the city of,Leon Brittan,This person,./A photo of Leon Brittan
+1165,The original language of this film is a mixture of,Voyage to Cythera,this film,./A photo of Voyage to Cythera
+1166,This river belongs to the continent of,Rufiji River,This river,./A photo of Rufiji River
+1167,This show debuted on,Rowan & Martin's Laugh-In,This show,./A photo of Rowan & Martin's Laugh-In
+1168,This place belongs to the continent of,Cape Adams,This place,./A photo of Cape Adams
+1169,This aircraft is developed by the,B-47 Stratojet,This aircraft,./A photo of B-47 Stratojet
+1170,This venue is owned by the,American Airlines Center,This venue,./A photo of American Airlines Center
+1171,This phone is developed by,iPhone 4s,This phone,./A photo of iPhone 4s
+1172,This highway is the most popular route in,Bundesautobahn 3,This highway,./A photo of Bundesautobahn 3
+1173,This person is a native speaker of,Yvan Goll,This person,./A photo of Yvan Goll
+1174,This administrative division is located in the country of,Gmina Kleczew,This administrative,./A photo of Gmina Kleczew
+1175,This person works as a,Janet Jackson,This person,./A photo of Janet Jackson
+1176,This person originates from the city of,Boniface III,This person,./A photo of Boniface III
+1177,This literary form is written in the style of a traditional,Skaz,This literary,./A photo of Skaz
+1178,This person's profession is an,Daiki Arioka,This person's,./A photo of Daiki Arioka
+1179,This organization's headquarters are in,Indian Space Research Organisation,This organization's,./A photo of Indian Space Research Organisation
+1180,"This person, who has a citizenship of",Bhaktisiddhanta Saraswati,"This person,",./A photo of Bhaktisiddhanta Saraswati
+1181,This show was originally aired on the,Elizabeth R,This show,./A photo of Elizabeth R
+1182,The native language of this person is,Hendrikus Colijn,this person,./A photo of Hendrikus Colijn
+1183,This brand originated in the country of,Givenchy,This brand,./A photo of Givenchy
+1184,This athlete professionally plays the sport of,Roger Staubach,This athlete,./A photo of Roger Staubach
+1185,This player professionally plays the sport of,Teemu Sälännä,This player,./A photo of Teemu Sälännä
+1186,This person is employed by,Ray Kurzweil,This person,./A photo of Ray Kurzweil
+1187,This model works in the field of,statistical model,This model,./A photo of statistical model
+1188,The location of this event is in,2013 Australian Open,this event,./A photo of 2013 Australian Open
+1189,This operating system is developed by,Windows 95,This operating,./A photo of Windows 95
+1190,This vehicle is produced by,Jeep Wrangler,This vehicle,./A photo of Jeep Wrangler
+1191,This game is developed by,Final Fantasy Legend III,This game,./A photo of Final Fantasy Legend III
+1192,This person is employed by,Scott Forstall,This person,./A photo of Scott Forstall
+1193,This person was born in the city of,Giovanni Sgambati,This person,./A photo of Giovanni Sgambati
+1194,This person's native language is  ,Pierre Alcover,This person's,./A photo of Pierre Alcover
+1195,This person has a citizenship of the country of,Gianni Ferrio,This person,./A photo of Gianni Ferrio
+1196,This person is a citizen of,Henryk Sienkiewicz,This person,./A photo of Henryk Sienkiewicz
+1197,The original language of this series is a mixture of,La Fontaine's Fables,this series,./A photo of La Fontaine's Fables
+1198,This newspaper is written in,Aftonbladet,This newspaper,./A photo of Aftonbladet
+1199,This athlete plays in the position of,Kyle Farnsworth,This athlete,./A photo of Kyle Farnsworth
+1200,"This person, whose position is that of a superior",Gregory XVI,"This person,",./A photo of Gregory XVI
+1201,This show originally aired on,My Sister Sam,This show,./A photo of My Sister Sam
+1202,This hotel is located in the heart of the city of,Devonshire Arms,This hotel,./A photo of Devonshire Arms
+1203,This show premieres on,Ballers,This show,./A photo of Ballers

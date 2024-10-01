@@ -1,33 +1,32 @@
-# Project
+## Understanding Information Storage and Transfer in Multimodal Language Models 
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This is the implementation of the interpretability and model editing experiments from NeurIPS 2024 paper : https://arxiv.org/abs/2406.04236.
 
-As the maintainer of this project, please make a few updates:
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+<img width="736" alt="Screen Shot 2024-09-23 at 5 09 12 PM" src="https://github.com/user-attachments/assets/4094fc67-5b41-4d93-8788-ef0d004f7e81">
 
-## Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+================================================
+### Constraint Annotations 
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+``` The constraint annotations are in ./data_constraints. The directory contains constraints for OK-VQA, Multimodal Known and Multimodal Movies. ```
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+================================================
 
-## Trademarks
+### Images used for Probe Dataset 
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+For OK-VQA, we use the val set images from https://okvqa.allenai.org/. For Multimodal Known the images are at: [Link 1](https://drive.google.com/file/d/1YuGAomZdkMBvQBKndTimUFFmIWduahNS/view?usp=sharing) and for Multimodal Movies the images are at: [Link 2](https://drive.google.com/file/d/1n2mBeUyY7K3ZRpXHHH6fWXFWXnf2p0Sw/view?usp=sharing).
+
+================================================
+
+### Running the Scripts 
+
+Our codebase is built on Llava's code. Clone [Llava](https://github.com/haotian-liu/LLaVA) and transfer the code from this repository to ```./llava/eval ```.
+
+1. Multimodal Causal Trace: ``` python -m llava.eval.multimodal_trace --trace_answer <Answer for the prompt> --trace_question <Question> --trace_image <Image Path> --trace_constraint <Constraint in the question>```
+
+2. Multimodal Edit: ``` python -m llava.eval.multimodal_edit --edit_prompt <Prompt used for running model editing> --edit_constraint <Constraints in th prompt> --edit_target <Target Answer> --edit_og_answer <Original Answer to the prompt> ```
+
+================================================
+
+#### Notes : Although the current script is optimized for Llava, these scripts can be modified towards applying it on any multimodal language model. Reach out to sbasu12@umd.edu for any questions.
