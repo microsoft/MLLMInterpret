@@ -1,25 +1,25 @@
-## Understanding Information Storage and Transfer in Multimodal Language Models 
+## Understanding Information Storage and Transfer in Multimodal Language Models
 
 This is the implementation of the interpretability and model editing experiments from NeurIPS 2024 paper : https://arxiv.org/abs/2406.04236.
 
 
-<img width="736" alt="Screen Shot 2024-09-23 at 5 09 12 PM" src="https://github.com/user-attachments/assets/4094fc67-5b41-4d93-8788-ef0d004f7e81">
+<img width="736" alt="Figure 1: heatmap plots showing the information retrieved from layers of two models. On the left is LLaVA-7B (an MLLM) and on the right LLAMA (Vicuna)-7B (an LLM). THe plot shows the early layers in the MLLM are causal, but that middle layers are causal for the LLM." src="mlmm_fig.png">
 
 
 ================================================
-### Constraint Annotations 
+### Constraint Annotations
 
 ``` The constraint annotations are in ./data_constraints. The directory contains constraints for OK-VQA, Multimodal Known and Multimodal Movies. ```
 
 ================================================
 
-### Images used for Probe Dataset 
+### Images used for Probe Dataset
 
 For OK-VQA, we use the val set images from https://okvqa.allenai.org/. For Multimodal Known the images are at: [Link 1](https://drive.google.com/file/d/1YuGAomZdkMBvQBKndTimUFFmIWduahNS/view?usp=sharing) and for Multimodal Movies the images are at: [Link 2](https://drive.google.com/file/d/1n2mBeUyY7K3ZRpXHHH6fWXFWXnf2p0Sw/view?usp=sharing).
 
 ================================================
 
-### Running the Scripts 
+### Running the Scripts
 
 Our codebase is built on Llava's code. Clone [Llava](https://github.com/haotian-liu/LLaVA) and transfer the code from this repository to ```./llava/eval ```.
 
