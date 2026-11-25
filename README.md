@@ -33,4 +33,4 @@ Our codebase is built on Llava's code. Clone [Llava](https://github.com/haotian-
 
 ### Code Scanning
 
-This repository uses GitHub's CodeQL default setup, managed in the repository's code security settings rather than a checked-in workflow. Keep default setup enabled for code scanning; an advanced CodeQL workflow must not run alongside it because GitHub rejects those analysis uploads.
+Automatic code scanning uses GitHub's CodeQL default setup, managed in the repository's code security settings. The checked-in `CodeQL Advanced` workflow is manual-only: disable default setup before running it, because GitHub rejects advanced analysis uploads while default setup is enabled.
