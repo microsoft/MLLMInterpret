@@ -30,3 +30,7 @@ Our codebase is built on Llava's code. Clone [Llava](https://github.com/haotian-
 ================================================
 
 #### Notes : Although the current script is optimized for Llava, these scripts can be modified towards applying it on any multimodal language model. Reach out to sbasu12@umd.edu for any questions.
+
+### Code Scanning
+
+Automatic code scanning uses GitHub's CodeQL default setup, managed in the repository's code security settings. The checked-in `CodeQL Advanced` workflow is manual-only: disable default setup before running it, because GitHub rejects advanced analysis uploads while default setup is enabled.
