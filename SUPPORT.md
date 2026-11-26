@@ -1,25 +1,11 @@
-# TODO: The maintainer of this repo has not yet edited this file
-
-**REPO OWNER**: Do you want Customer Service & Support (CSS) support for this product/project?
-
-- **No CSS support:** Fill out this template with information about how to file issues and get help.
-- **Yes CSS support:** Fill out an intake form at [aka.ms/onboardsupport](https://aka.ms/onboardsupport). CSS will work with/help you to determine next steps.
-- **Not sure?** Fill out an intake as though the answer were "Yes". CSS will help you decide.
-
-*Then remove this first heading from this SUPPORT.MD file before publishing your repo.*
-
 # Support
 
-## How to file issues and get help  
+This repository is archived and is no longer maintained or supported. The code and datasets remain available for reference and reproducibility of the associated research.
 
-This project uses GitHub Issues to track bugs and feature requests. Please search the existing 
-issues before filing new issues to avoid duplicates.  For new issues, file your bug or 
-feature request as a new Issue.
+No further development, bug fixes, or security updates will be provided. New issues and pull requests are not accepted.
 
-For help and questions about using this project, please **REPO MAINTAINER: INSERT INSTRUCTIONS HERE 
-FOR HOW TO ENGAGE REPO OWNERS OR COMMUNITY FOR HELP. COULD BE A STACK OVERFLOW TAG OR OTHER
-CHANNEL. WHERE WILL YOU HELP PEOPLE?**.
+For research context and usage instructions, see [README.md](README.md) and the [paper](https://arxiv.org/abs/2406.04236). You may fork the code to continue development under the terms of the [LICENSE](LICENSE).
 
-## Microsoft Support Policy  
+## Security concerns
 
-Support for this **PROJECT or PRODUCT** is limited to the resources listed above.
+Please follow [SECURITY.md](SECURITY.md) to report security concerns to the Microsoft Security Response Center (MSRC). Do not report security vulnerabilities through public GitHub issues.
