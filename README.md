@@ -1,5 +1,10 @@
 ## Understanding Information Storage and Transfer in Multimodal Language Models
 
+> [!IMPORTANT]
+> **This repository is archived and is no longer maintained.**
+> The code and datasets are preserved for reference and reproducibility of the research below. No further development, bug fixes, or security updates will be provided, and new issues and pull requests are not accepted.
+> You may fork the code to continue development under the terms of the [LICENSE](LICENSE). See [SUPPORT.md](SUPPORT.md) for the support policy and [SECURITY.md](SECURITY.md) for reporting security concerns.
+
 This is the implementation of the interpretability and model editing experiments from NeurIPS 2024 paper : https://arxiv.org/abs/2406.04236.
 
 
@@ -29,8 +34,8 @@ Our codebase is built on Llava's code. Clone [Llava](https://github.com/haotian-
 
 ================================================
 
-#### Notes : Although the current script is optimized for Llava, these scripts can be modified towards applying it on any multimodal language model. Reach out to sbasu12@umd.edu for any questions.
+#### Notes : Although the current script is optimized for Llava, these scripts can be modified towards applying it on any multimodal language model.
 
-### Code Scanning
+### Code Scanning in Forks
 
-Automatic code scanning uses GitHub's CodeQL default setup, managed in the repository's code security settings. The checked-in `CodeQL Advanced` workflow is manual-only: disable default setup before running it, because GitHub rejects advanced analysis uploads while default setup is enabled.
+The checked-in `CodeQL Advanced` workflow is manual-only. If you enable CodeQL default setup in a fork, disable it before running this workflow, because GitHub rejects advanced analysis uploads while default setup is enabled.
